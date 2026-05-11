@@ -1,137 +1,7 @@
 {
-  "generated_at": "2026-05-04T07:53:19.671202Z",
-  "event_count": 77,
+  "generated_at": "2026-05-11T08:31:11.263491Z",
+  "event_count": 79,
   "events": [
-    {
-      "id": "EVT-EC7CA14A43",
-      "title": "Johannesburg Arbitration Week 2026",
-      "organiser": "Johannesburg Arbitration Week",
-      "start": "2026-04-27",
-      "end": "2026-05-01",
-      "city": "Johannesburg",
-      "country": "South Africa",
-      "region": "Africa",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Disputes"
-      ],
-      "audience": "Senior",
-      "cost": "Paid",
-      "costDisplay": "Register",
-      "url": "https://www.globallegalinsights.com/conferences/johannesburg-arbitration-week-2026/",
-      "flags": [
-        "Flagship"
-      ],
-      "summary": "Flagship initiative positioning South Africa as leading arbitration hub for professionals shaping complex projects, investments and commercial relationships."
-    },
-    {
-      "id": "EVT-62F6319E9D",
-      "title": "Chief Litigation Officer Summit 2026",
-      "organiser": "Marcus Evans",
-      "start": "2026-04-27",
-      "end": "2026-04-28",
-      "city": "Las Vegas",
-      "country": "United States",
-      "region": "North America",
-      "format": "In-person",
-      "topics": [
-        "Litigation",
-        "Disputes"
-      ],
-      "audience": "Senior",
-      "cost": "Invite-only",
-      "costDisplay": "Invite-only",
-      "url": "https://www.globallegalinsights.com/conferences/chief-litigation-officer-summit-2026/",
-      "flags": [],
-      "summary": "Invitation-only summit for senior litigation executives at Red Rock Casino Resort. Focuses on precision, efficiency and adaptability in litigation leadership."
-    },
-    {
-      "id": "EVT-523D53FA1A",
-      "title": "Countering ISDS Claims: Old Tensions and New Defences",
-      "organiser": "BIICL",
-      "start": "2026-04-30",
-      "end": "2026-04-30",
-      "city": "London",
-      "country": "United Kingdom",
-      "region": "UK",
-      "format": "Hybrid",
-      "topics": [
-        "Arbitration",
-        "Disputes"
-      ],
-      "audience": "Senior",
-      "cost": "Paid",
-      "costDisplay": "Register",
-      "url": "https://www.biicl.org/events/12095/countering-isds-claims-old-tensions-and-new-defences",
-      "flags": [],
-      "summary": "Roundtable bringing together academics and practitioners to discuss new defences increasingly advanced by host States in investor-state dispute settlement proceedings."
-    },
-    {
-      "id": "EVT-EBA9C0E15E",
-      "title": "Scottish Branch AGM and Annual Lecture",
-      "organiser": "CIArb",
-      "start": "2026-04-30",
-      "end": "2026-04-30",
-      "city": "Glasgow",
-      "country": "United Kingdom",
-      "region": "UK",
-      "format": "In-person",
-      "topics": [
-        "Disputes",
-        "Arbitration",
-        "Networking"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Register",
-      "url": "https://www.ciarb.org/events/scottish-branch-agm-and-annual-lecture/",
-      "flags": [],
-      "summary": "Annual general meeting of CIArb Scottish Branch combined with annual lecture on dispute resolution topics."
-    },
-    {
-      "id": "EVT-E6273EBCE5",
-      "title": "Scottish Branch Annual Conference 2026",
-      "organiser": "CIArb",
-      "start": "2026-04-30",
-      "end": "2026-04-30",
-      "city": "Glasgow",
-      "country": "United Kingdom",
-      "region": "UK",
-      "format": "In-person",
-      "topics": [
-        "Disputes",
-        "Arbitration",
-        "Mediation"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Register",
-      "url": "https://www.ciarb.org/events/scottish-branch-annual-conference-2026/",
-      "flags": [],
-      "summary": "Annual conference of CIArb Scottish Branch covering current developments and practices in arbitration and alternative dispute resolution."
-    },
-    {
-      "id": "EVT-F0FBEB6615",
-      "title": "Countering ISDS Claims: Old Tensions and New Defences",
-      "organiser": "BIICL",
-      "start": "2026-04-30",
-      "end": "2026-04-30",
-      "city": "",
-      "country": "UK",
-      "region": "UK",
-      "format": "Hybrid",
-      "topics": [
-        "Arbitration",
-        "Disputes"
-      ],
-      "audience": "Mixed",
-      "cost": "Free",
-      "costDisplay": "",
-      "url": "https://www.biicl.org/events/12095/countering-isds-claims-old-tensions-and-new-defences",
-      "flags": [],
-      "summary": "Roundtable bringing together academics and practitioners to discuss new defences increasingly advanced by host States in investor-state dispute settlement proceedings."
-    },
     {
       "id": "EVT-3103F05C5B",
       "title": "Johannesburg Arbitration Week 2026",
@@ -154,118 +24,6 @@
         "Flagship"
       ],
       "summary": "A flagship initiative positioning South Africa as a leading arbitration hub, designed for professionals shaping complex projects, investments and commercial relationships in international dispute resolution."
-    },
-    {
-      "id": "EVT-5C2483EC22",
-      "title": "Chief Litigation Officer Summit 2026",
-      "organiser": "Marcus Evans",
-      "start": "2026-05-01",
-      "end": "2026-05-02",
-      "city": "Las Vegas",
-      "country": "United States",
-      "region": "North America",
-      "format": "In-person",
-      "topics": [
-        "Litigation"
-      ],
-      "audience": "Senior",
-      "cost": "Invite-only",
-      "costDisplay": "Invite-only",
-      "url": "https://www.globallegalinsights.com/conferences/chief-litigation-officer-summit-2026/",
-      "flags": [],
-      "summary": "Invitation-only premium summit for senior litigation executives at Red Rock Casino Resort, Las Vegas, focusing on precision, efficiency and adaptability in complex legal environments."
-    },
-    {
-      "id": "EVT-A4E9F7703B",
-      "title": "Forum on Complex International Disputes Involving CEE and Central Asia",
-      "organiser": "Unknown",
-      "start": "2026-05-01",
-      "end": "2026-05-02",
-      "city": "Unknown",
-      "country": "",
-      "region": "Europe",
-      "format": "In-person",
-      "topics": [
-        "Disputes",
-        "Arbitration",
-        "Litigation"
-      ],
-      "audience": "Senior",
-      "cost": "Paid",
-      "costDisplay": "Register",
-      "url": "https://www.globallegalinsights.com/conferences/forum-on-complex-international-disputes-involving-cee-and-central-asia/",
-      "flags": [],
-      "summary": "Premier forum for practitioners, arbitrators and corporate counsel navigating arbitration and litigation across Central and Eastern Europe and Central Asia, featuring speakers from leading firms."
-    },
-    {
-      "id": "EVT-711AE01C61",
-      "title": "28th Annual Transnational Crime Conference",
-      "organiser": "International Bar Association",
-      "start": "2026-05-01",
-      "end": "2026-05-01",
-      "city": "",
-      "country": "",
-      "region": "Global",
-      "format": "In-person",
-      "topics": [
-        "Financial Crime",
-        "AML",
-        "Fraud",
-        "Investigations",
-        "Enforcement"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Book now",
-      "url": "https://www.ibanet.org/conference-details/CONF2745",
-      "flags": [
-        "Flagship"
-      ],
-      "summary": "Annual conference examining transnational financial crime including money laundering, fraud, sanctions, and cross-border enforcement."
-    },
-    {
-      "id": "EVT-2D4584AC18",
-      "title": "LCIA Tylney in Town Symposia - Mumbai",
-      "organiser": "LCIA",
-      "start": "2026-05-02",
-      "end": "2026-05-02",
-      "city": "Mumbai",
-      "country": "India",
-      "region": "APAC",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Disputes",
-        "Networking"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Register",
-      "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
-      "flags": [],
-      "summary": "Afternoon and evening symposium bringing the Tylney format to Mumbai with candid discussion, practical insight and connection opportunities."
-    },
-    {
-      "id": "EVT-BA63056593",
-      "title": "LCIA Tylney in Town Symposium in Mumbai",
-      "organiser": "LCIA",
-      "start": "2026-05-02",
-      "end": "2026-05-02",
-      "city": "Mumbai",
-      "country": "India",
-      "region": "APAC",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Disputes",
-        "Networking"
-      ],
-      "audience": "Senior",
-      "cost": "Paid",
-      "costDisplay": "Register",
-      "url": "https://www.lcia.org/events/2026-lcia-tylney-in-town-symposium-in-mumbai-381.aspx",
-      "flags": [],
-      "summary": "Symposium bringing together leading arbitration practitioners for high-level discussions in Mumbai."
     },
     {
       "id": "EVT-A9CD4F54A4",
@@ -536,6 +294,29 @@
       "summary": "Ninety-minute webinar on strategic considerations for resolving international tax disputes through litigation and alternative forums."
     },
     {
+      "id": "EVT-5EA6927310",
+      "title": "28th Annual Transnational Crime Conference",
+      "organiser": "IBA",
+      "start": "2026-05-13",
+      "end": "2026-05-15",
+      "city": "Athens",
+      "country": "Greece",
+      "region": "Europe",
+      "format": "In-person",
+      "topics": [
+        "Financial Crime",
+        "Investigations",
+        "Enforcement",
+        "Compliance"
+      ],
+      "audience": "Mixed",
+      "cost": "Paid",
+      "costDisplay": "Online bookings closed",
+      "url": "https://www.ibanet.org/conference-details/CONF2745",
+      "flags": [],
+      "summary": "Annual conference addressing transnational crime issues including financial crime, enforcement strategies, and cross-border investigations. Organised by the IBA's Criminal Law Section."
+    },
+    {
       "id": "EVT-C90F01FCD3",
       "title": "Cyprus Arbitration Day",
       "organiser": "Cyprus Arbitration Day",
@@ -554,12 +335,12 @@
       "costDisplay": "Register",
       "url": "https://cad.com.cy/",
       "flags": [],
-      "summary": "Fourth edition of Cyprus Arbitration Day, an arbitration-focused event supported by LCIA held in Limassol."
+      "summary": "Fourth edition of Cyprus Arbitration Day held in Limassol. LCIA supporting organisation for this regional arbitration conference."
     },
     {
       "id": "EVT-A4643626AE",
       "title": "YIAG Morning Networking Walk in Cyprus",
-      "organiser": "LCIA YIAG",
+      "organiser": "LCIA Young International Arbitration Group",
       "start": "2026-05-16",
       "end": "2026-05-16",
       "city": "Cyprus",
@@ -575,14 +356,38 @@
       "costDisplay": "Register",
       "url": "https://www.lcia.org/events/yiag-morning-networking-walk-in-cyprus-384.aspx",
       "flags": [],
-      "summary": "Morning networking walk for YIAG members featuring remarks by LCIA Director General Kevin Nash, with light breakfast and coffee provided."
+      "summary": "Morning networking walk for young arbitration practitioners in Cyprus, featuring remarks by LCIA Director General Kevin Nash with light breakfast and coffee."
+    },
+    {
+      "id": "EVT-A001C6FE6D",
+      "title": "London International Disputes Week 2026",
+      "organiser": "LIDW",
+      "start": "2026-05-18",
+      "end": "2026-05-23",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "UK",
+      "format": "In-person",
+      "topics": [
+        "Disputes",
+        "Arbitration",
+        "Mediation"
+      ],
+      "audience": "Mixed",
+      "cost": "Paid",
+      "costDisplay": "Register",
+      "url": "https://www.globallegalinsights.com/conferences/london-international-disputes-week-2026/",
+      "flags": [
+        "Flagship"
+      ],
+      "summary": "Seventh annual week-long gathering of international disputes community. Theme: Tradition, trust and transformation in international dispute resolution. Includes International Arbitration and other events."
     },
     {
       "id": "EVT-F8137332E6",
       "title": "Johannesburg Arbitration Week 2026",
-      "organiser": "Johannesburg Arbitration Week",
+      "organiser": "JAW",
       "start": "2026-05-18",
-      "end": "2026-05-22",
+      "end": "2026-05-23",
       "city": "Johannesburg",
       "country": "South Africa",
       "region": "Africa",
@@ -591,14 +396,14 @@
         "Arbitration",
         "Disputes"
       ],
-      "audience": "Senior",
+      "audience": "Mixed",
       "cost": "Paid",
       "costDisplay": "Register",
       "url": "https://www.globallegalinsights.com/conferences/johannesburg-arbitration-week-2026/",
       "flags": [
         "Flagship"
       ],
-      "summary": "A flagship initiative positioning South Africa as a leading arbitration hub in Africa for professionals shaping complex projects, investments and commercial relationships through international dispute resolution."
+      "summary": "Flagship initiative positioning South Africa as leading arbitration hub. Designed for professionals shaping complex projects, investments and commercial relationships in international dispute resolution."
     },
     {
       "id": "EVT-50F2FAF967",
@@ -619,7 +424,7 @@
       "costDisplay": "Invitation only",
       "url": "https://www.globallegalinsights.com/conferences/ip-litigation-summit-2026/",
       "flags": [],
-      "summary": "Invitation-only premium summit for senior IP litigation executives exploring strategies, foresight and adaptability in IP disputes over two days at Red Rock Casino Resort."
+      "summary": "Invitation-only summit for senior IP litigation executives at Red Rock Casino Resort. Two days exploring strategies for navigating IP disputes with focus on strategy and adaptability."
     },
     {
       "id": "EVT-0CEA5BE925",
@@ -640,7 +445,7 @@
       "costDisplay": "Invitation only",
       "url": "https://www.globallegalinsights.com/conferences/chief-litigation-officer-summit-2026/",
       "flags": [],
-      "summary": "Invitation-only premium summit for senior litigation executives addressing precision, efficiency and adaptability in complex legal environments over two days at Red Rock Casino Resort."
+      "summary": "Invitation-only summit for senior litigation executives at Red Rock Casino Resort. Two days addressing precision, efficiency and adaptability in increasingly complex legal environment."
     },
     {
       "id": "EVT-E31F3FCCCC",
@@ -727,7 +532,7 @@
       "costDisplay": "Register",
       "url": "https://www.ciarb.org/events/the-learning-lab/",
       "flags": [],
-      "summary": "A multi-week learning programme running from May to June, offering education and skills development for dispute resolution practitioners through CIArb's structured training format."
+      "summary": "Multi-session online training programme covering fundamentals of arbitration, mediation and alternative dispute resolution methods for practitioners."
     },
     {
       "id": "EVT-5B5F8BA474",
@@ -748,7 +553,7 @@
       "costDisplay": "View Detail",
       "url": "https://delosdr.org/my-events/delos-y-budapest-breakfast-19-may-2026/",
       "flags": [],
-      "summary": "A breakfast networking event for young arbitration practitioners in Budapest, part of the Delos-Y series for early-career professionals in dispute resolution."
+      "summary": "A networking breakfast event for young arbitration practitioners in Budapest, organised by Delos-Y, the young practitioners' initiative of Delos Dispute Resolution."
     },
     {
       "id": "EVT-EC7A7C2AB4",
@@ -762,14 +567,15 @@
       "format": "In-person",
       "topics": [
         "Arbitration",
-        "Advocacy"
+        "Advocacy",
+        "Professional Development"
       ],
       "audience": "Mixed",
       "cost": "Paid",
       "costDisplay": "View Detail",
       "url": "https://delosdr.org/my-events/advocacy-in-international-arbitration-how-to-be-an-effective-advocate-in-a-brave-new-world/",
       "flags": [],
-      "summary": "A three-day training program focused on developing effective advocacy skills in international arbitration, addressing modern challenges and techniques in a changing dispute resolution landscape."
+      "summary": "A three-day training programme on effective advocacy skills and techniques in international arbitration proceedings, covering modern approaches and best practices in a changing landscape."
     },
     {
       "id": "EVT-5E445A0440",
@@ -792,6 +598,28 @@
       "url": "https://www.biicl.org/events/12089/forty-fifth-itf-public-conference-the-ilc-articles-on-state-responsibility-at-25",
       "flags": [],
       "summary": "One-day conference marking the 25th anniversary of the International Law Commission Articles on State Responsibility, examining their ongoing relevance in international investment law and investor-state dispute settlement."
+    },
+    {
+      "id": "EVT-BF229CE4EB",
+      "title": "Forty-Fifth ITF Public Conference: The ILC Articles on State Responsibility at 25",
+      "organiser": "BIICL",
+      "start": "2026-05-22",
+      "end": "2026-05-22",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "region": "Europe",
+      "format": "Hybrid",
+      "topics": [
+        "Arbitration",
+        "Disputes",
+        "Enforcement"
+      ],
+      "audience": "Mixed",
+      "cost": "Free",
+      "costDisplay": "Register",
+      "url": "https://www.biicl.org/events/12089/forty-fifth-itf-public-conference-the-ilc-articles-on-state-responsibility-at-25",
+      "flags": [],
+      "summary": "One-day conference marking the 25th anniversary of the ILC Articles on State Responsibility, examining their ongoing relevance in international investment law and investor-state dispute settlement."
     },
     {
       "id": "EVT-733E6CBB61",
@@ -883,30 +711,6 @@
       "summary": "Social networking event at Boulebar for junior and young-at-heart practitioners in the international disputes community during London International Disputes Week."
     },
     {
-      "id": "EVT-1F8768AA6C",
-      "title": "International Arbitration Day",
-      "organiser": "London International Disputes Week",
-      "start": "2026-06-01",
-      "end": "2026-06-01",
-      "city": "London",
-      "country": "United Kingdom",
-      "region": "UK",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Disputes",
-        "Networking"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Register",
-      "url": "https://register.lidw.co.uk/event/580",
-      "flags": [
-        "Flagship"
-      ],
-      "summary": "International Arbitration Day forms part of London International Disputes Week 2026, focusing on international arbitration practice and developments."
-    },
-    {
       "id": "EVT-EA0D56A8C5",
       "title": "Opening Reception",
       "organiser": "London International Disputes Week",
@@ -953,6 +757,52 @@
       "summary": "Flagship event positioning South Africa as leading arbitration hub. Designed for professionals managing complex projects, investments and commercial relationships."
     },
     {
+      "id": "EVT-1F8768AA6C",
+      "title": "International Arbitration Day",
+      "organiser": "London International Disputes Week",
+      "start": "2026-06-01",
+      "end": "2026-06-01",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "UK",
+      "format": "In-person",
+      "topics": [
+        "Arbitration",
+        "Disputes",
+        "Networking"
+      ],
+      "audience": "Mixed",
+      "cost": "Paid",
+      "costDisplay": "Register",
+      "url": "https://register.lidw.co.uk/event/580",
+      "flags": [
+        "Flagship"
+      ],
+      "summary": "Opening day event for London International Disputes Week focusing on international arbitration, part of the week-long gathering of the global disputes community."
+    },
+    {
+      "id": "EVT-E5C66A6095",
+      "title": "LIDW Opening Reception",
+      "organiser": "London International Disputes Week",
+      "start": "2026-06-01",
+      "end": "2026-06-01",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "UK",
+      "format": "In-person",
+      "topics": [
+        "Networking"
+      ],
+      "audience": "Mixed",
+      "cost": "Paid",
+      "costDisplay": "Register",
+      "url": "https://register.lidw.co.uk/event/587",
+      "flags": [
+        "Flagship"
+      ],
+      "summary": "Opening reception at Southwark Cathedral to launch London International Disputes Week, providing networking opportunities for the international disputes community."
+    },
+    {
       "id": "EVT-58EDAC6651",
       "title": "Main Conference",
       "organiser": "London International Disputes Week",
@@ -979,6 +829,32 @@
       "summary": "Main conference for over 700 delegates exploring tradition, trust and transformation in international dispute resolution. Includes drinks reception and diverse programme spanning arbitration, litigation and mediation."
     },
     {
+      "id": "EVT-30414120EA",
+      "title": "LIDW Main Conference",
+      "organiser": "London International Disputes Week",
+      "start": "2026-06-02",
+      "end": "2026-06-05",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "UK",
+      "format": "Hybrid",
+      "topics": [
+        "Disputes",
+        "Arbitration",
+        "Litigation",
+        "Mediation",
+        "Networking"
+      ],
+      "audience": "Mixed",
+      "cost": "Paid",
+      "costDisplay": "Register",
+      "url": "https://register.lidw.co.uk/event/579",
+      "flags": [
+        "Flagship"
+      ],
+      "summary": "Main conference for over 700 delegates exploring tradition, trust and transformation in international dispute resolution. Includes drinks reception and diverse programming across arbitration, litigation and mediation."
+    },
+    {
       "id": "EVT-5A29C6918A",
       "title": "LegalTech Showcase",
       "organiser": "London International Disputes Week",
@@ -990,14 +866,14 @@
       "format": "In-person",
       "topics": [
         "Disputes",
-        "Networking"
+        "Policy"
       ],
       "audience": "Mixed",
       "cost": "Paid",
       "costDisplay": "Register",
       "url": "https://register.lidw.co.uk/event/601",
       "flags": [],
-      "summary": "LegalTech showcase during London International Disputes Week featuring technology solutions for international dispute resolution."
+      "summary": "Technology showcase featuring legal technology solutions and innovations for the international disputes sector during London International Disputes Week."
     },
     {
       "id": "EVT-EBCBD1B168",
@@ -1010,15 +886,14 @@
       "region": "UK",
       "format": "In-person",
       "topics": [
-        "Networking",
-        "Disputes"
+        "Networking"
       ],
       "audience": "Junior",
       "cost": "Paid",
       "costDisplay": "Register",
       "url": "https://register.lidw.co.uk/event/612",
       "flags": [],
-      "summary": "Social event at Boulebar for junior and young-at-heart practitioners in the international disputes community during LIDW."
+      "summary": "Social event at Boulebar for junior and young practitioners in the disputes community to network and connect during London International Disputes Week."
     },
     {
       "id": "EVT-6458BB6129",
@@ -1038,8 +913,10 @@
       "cost": "Paid",
       "costDisplay": "Register",
       "url": "https://www.lcia.org/events/lcia-symposium-in-london-378.aspx",
-      "flags": [],
-      "summary": "Part of London International Disputes Week, symposium following LCIA Tylney-style format based on delegate-submitted topics."
+      "flags": [
+        "Flagship"
+      ],
+      "summary": "LCIA symposium during London International Disputes Week following the traditional Tylney-style format. Topics based on delegate submissions. Major arbitration event during flagship disputes week."
     },
     {
       "id": "EVT-F82BEB9B5C",
@@ -1055,34 +932,34 @@
         "Arbitration",
         "Disputes"
       ],
-      "audience": "Mixed",
+      "audience": "Senior",
       "cost": "Paid",
       "costDisplay": "Register",
       "url": "https://register.lidw.co.uk/event/898",
       "flags": [],
-      "summary": "Fireside chat exploring interaction between national courts and international arbitration, Asian regional developments, and future of global dispute resolution."
+      "summary": "Fireside chat with LCIA Director General, Board Member, and Former Chief Justice of India exploring courts-arbitration interaction, Asian regional developments, and future of global dispute resolution."
     },
     {
-      "id": "EVT-992242AFBC",
-      "title": "Arbitration in a turbulent global landscape: one year on",
-      "organiser": "LCIA YIAG",
-      "start": "2026-06-04",
-      "end": "2026-06-04",
+      "id": "EVT-3E8044CA27",
+      "title": "LIDW Gala Dinner at Raffles",
+      "organiser": "London International Disputes Week",
+      "start": "2026-06-03",
+      "end": "2026-06-03",
       "city": "London",
       "country": "United Kingdom",
       "region": "UK",
       "format": "In-person",
       "topics": [
-        "Arbitration",
-        "Disputes",
-        "Policy"
+        "Networking"
       ],
-      "audience": "Junior",
-      "cost": "Free",
+      "audience": "Senior",
+      "cost": "Paid",
       "costDisplay": "Register",
-      "url": "https://register.lidw.co.uk/event/873",
-      "flags": [],
-      "summary": "Panel discussion exploring how global conflicts, trade wars, political instability, AI, and climate change impact international arbitration and effective dispute resolution strategies for managing risk."
+      "url": "https://register.lidw.co.uk/event/588",
+      "flags": [
+        "Flagship"
+      ],
+      "summary": "Gala dinner at Raffles London providing networking and social opportunities for senior members of the international disputes community."
     },
     {
       "id": "EVT-A1967334F0",
@@ -1106,6 +983,28 @@
         "Flagship"
       ],
       "summary": "Gala dinner at Raffles for delegates attending London International Disputes Week 2026, providing premium networking opportunities."
+    },
+    {
+      "id": "EVT-992242AFBC",
+      "title": "Arbitration in a turbulent global landscape: one year on",
+      "organiser": "LCIA Young International Arbitration Group",
+      "start": "2026-06-04",
+      "end": "2026-06-04",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "UK",
+      "format": "In-person",
+      "topics": [
+        "Arbitration",
+        "Disputes",
+        "Policy"
+      ],
+      "audience": "Mixed",
+      "cost": "Free",
+      "costDisplay": "Register",
+      "url": "https://register.lidw.co.uk/event/873",
+      "flags": [],
+      "summary": "Panel discussion examining how conflicts, trade wars, political instability, AI, energy transition and climate change impact international arbitration and effective dispute resolution strategies in managing risk."
     },
     {
       "id": "EVT-BE1C204B19",
@@ -1171,12 +1070,12 @@
       "costDisplay": "Register",
       "url": "https://www.lcia.org/events/2026-lcia-tylney-in-town-symposium-in-toronto-375.aspx",
       "flags": [],
-      "summary": "Part of Canada Arbitration Week, symposium following LCIA Tylney-style format based on delegate-submitted topics."
+      "summary": "Symposium during Canada Arbitration Week following LCIA's Tylney-style format. Interactive discussions based on topics submitted by delegates in advance of the event."
     },
     {
       "id": "EVT-815C3100A5",
       "title": "CanArbWeek Young Members Social",
-      "organiser": "LCIA YIAG",
+      "organiser": "LCIA Young International Arbitration Group",
       "start": "2026-06-09",
       "end": "2026-06-09",
       "city": "Toronto",
@@ -1190,9 +1089,29 @@
       "audience": "Junior",
       "cost": "Free",
       "costDisplay": "Register",
-      "url": "https://lp.constantcontactpages.com/ev/reg/99fa2g4/lp/16b57ecd-2df4-4e99-ba0d-1e357c0fb423",
+      "url": "https://lp.constantcontactpages.com/ev/reg/99fa2g4/lp/16b57ecd-2df4-4e99-ba0d-1e357c0fb423?__cf_chl_tk=PBaGhQ1dfhAxSjGbvaLtWrZFcTi7YsJWPVDqGLnzfqU-1777568967-1.0.1.1-hQyi3GLgjiRYzOjFe9gBX3FKA3ehG8GCqmZ9o76qX.w",
       "flags": [],
-      "summary": "Afternoon social with drinks and canapés for young arbitration practitioners following CanArbWeek main programming. Networking opportunity for early-career professionals."
+      "summary": "Afternoon social networking event for young arbitration practitioners with drinks and canapés, following main CanArbWeek programming."
+    },
+    {
+      "id": "EVT-A6810F726E",
+      "title": "Young ICCA Workshop on Oral Advocacy",
+      "organiser": "Young ICCA",
+      "start": "2026-06-10",
+      "end": "2026-06-10",
+      "city": "Rome",
+      "country": "Italy",
+      "region": "Europe",
+      "format": "In-person",
+      "topics": [
+        "Arbitration"
+      ],
+      "audience": "Mixed",
+      "cost": "Free",
+      "costDisplay": "Register",
+      "url": "https://www.youngicca.org/young-icca-workshop-oral-advocacy-5",
+      "flags": [],
+      "summary": "Interactive skills training workshop focused on oral advocacy techniques for young arbitration practitioners, scholars and students in Rome."
     },
     {
       "id": "EVT-292E2A7B9C",
@@ -1213,28 +1132,7 @@
       "costDisplay": "Register your interest",
       "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [],
-      "summary": "Part of Italian Arbitration Day, symposium following LCIA Tylney-style format based on delegate-submitted topics."
-    },
-    {
-      "id": "EVT-33D8390E3F",
-      "title": "Chief Litigation Officer Summit 2026",
-      "organiser": "Marcus Evans",
-      "start": "2026-06-15",
-      "end": "2026-06-16",
-      "city": "San Diego",
-      "country": "United States",
-      "region": "North America",
-      "format": "In-person",
-      "topics": [
-        "Litigation",
-        "Disputes"
-      ],
-      "audience": "Senior",
-      "cost": "Invite-only",
-      "costDisplay": "Invitation only",
-      "url": "https://www.globallegalinsights.com/conferences/chief-litigation-officer-summit-2026-june/",
-      "flags": [],
-      "summary": "Invitation-only summit for senior litigation executives exploring strategies, efficiency, and adaptability in complex legal environments. Two-day exchange with solution providers at Park Hyatt Aviara Resort."
+      "summary": "LCIA symposium during Italian Arbitration Day following the traditional Tylney-style format. Topics submitted by delegates in advance for interactive discussion."
     },
     {
       "id": "EVT-080842485C",
@@ -1256,6 +1154,27 @@
       "url": "https://www.globallegalinsights.com/conferences/chief-litigation-officer-summit-2026-june/",
       "flags": [],
       "summary": "Invitation-only forum for senior litigation executives and solution providers. Focuses on strategies shaping litigation leadership in an increasingly complex legal environment."
+    },
+    {
+      "id": "EVT-33D8390E3F",
+      "title": "Chief Litigation Officer Summit 2026",
+      "organiser": "Marcus Evans",
+      "start": "2026-06-15",
+      "end": "2026-06-16",
+      "city": "San Diego",
+      "country": "United States",
+      "region": "North America",
+      "format": "In-person",
+      "topics": [
+        "Litigation",
+        "Disputes"
+      ],
+      "audience": "Senior",
+      "cost": "Invite-only",
+      "costDisplay": "Invitation only",
+      "url": "https://www.globallegalinsights.com/conferences/chief-litigation-officer-summit-2026-june/",
+      "flags": [],
+      "summary": "Invitation-only summit for senior litigation leaders and solution providers at Park Hyatt Aviara Resort. Connects litigation executives with insights and strategies shaping the field."
     },
     {
       "id": "EVT-4D1CD89635",
@@ -1298,7 +1217,7 @@
       "costDisplay": "Members Free | Non-Members £100 +VAT",
       "url": "https://iccwbo.uk/events/arbitration-masterclass-16-june-2026/",
       "flags": [],
-      "summary": "Masterclass on streamlining arbitration procedures and tactics. Covers efficient dispute resolution strategies for arbitration practitioners at White & Case offices in London."
+      "summary": "Masterclass on effective procedures and tactical approaches to streamline arbitration processes. Practical session covering techniques to make arbitration faster and more cost-efficient. Hosted at White & Case offices in London."
     },
     {
       "id": "EVT-2DFE033B99",
@@ -1345,7 +1264,7 @@
       "flags": [
         "Flagship"
       ],
-      "summary": "The Roebuck Lecture is CIArb's annual flagship lecture event, bringing together the arbitration and dispute resolution community. The 2026 edition takes place in June."
+      "summary": "Annual flagship lecture by the Chartered Institute of Arbitrators examining contemporary issues in arbitration and dispute resolution."
     },
     {
       "id": "EVT-D2FF7248B2",
@@ -1359,15 +1278,15 @@
       "format": "Virtual",
       "topics": [
         "Arbitration",
-        "Litigation",
-        "Disputes"
+        "Disputes",
+        "Litigation"
       ],
       "audience": "Mixed",
       "cost": "Free",
       "costDisplay": "Register",
       "url": "https://www.ciarb.org/events/the-state-of-expert-witness-evidence-exclusive-insights-from-ciarb-s-global-study/",
       "flags": [],
-      "summary": "Webinar presenting findings from CIArb's global research on expert witness evidence practices, examining current challenges and best practices in dispute resolution proceedings."
+      "summary": "Webinar presenting findings from CIArb's global research on expert witness evidence practices in arbitration and litigation proceedings worldwide."
     },
     {
       "id": "EVT-000990AD61",
@@ -1381,14 +1300,37 @@
       "format": "In-person",
       "topics": [
         "Arbitration",
-        "Mediation"
+        "Mediation",
+        "Disputes"
       ],
       "audience": "Mixed",
       "cost": "Invite-only",
       "costDisplay": "Members & invite only",
       "url": "https://iccwbo.uk/events/arbitration-and-adr-committee-meeting-19-may-2025/",
       "flags": [],
-      "summary": "Committee meeting for ICC UK arbitration and alternative dispute resolution members. Invitation-only session to discuss sector developments and policy issues."
+      "summary": "Private committee meeting for ICC UK Arbitration and ADR members. Invitation-only session for committee members to discuss arbitration and alternative dispute resolution matters. Contact arbitration@iccwbo.uk for access."
+    },
+    {
+      "id": "EVT-54733DE391",
+      "title": "ACI's Forum on Cartels, TCOs & Compliance in Latin America",
+      "organiser": "American Conference Institute",
+      "start": "2026-07-20",
+      "end": "2026-07-21",
+      "city": "Washington",
+      "country": "United States",
+      "region": "North America",
+      "format": "In-person",
+      "topics": [
+        "Compliance",
+        "Enforcement",
+        "Financial Crime"
+      ],
+      "audience": "Mixed",
+      "cost": "Paid",
+      "costDisplay": "Save 10% with code D10-999-GLG26",
+      "url": "https://www.globallegalinsights.com/conferences/acis-forum-on-cartels-tcos-compliance-in-latin-america/",
+      "flags": [],
+      "summary": "Forum addressing cartels, transnational criminal organisations, and compliance challenges for companies and financial institutions operating in Latin America. Features enforcement officials and in-house counsel."
     },
     {
       "id": "EVT-A199FBAB25",
@@ -1406,9 +1348,11 @@
         "AML",
         "Bribery",
         "ABC",
+        "Market Abuse",
         "Compliance",
         "Enforcement",
-        "Investigations"
+        "Investigations",
+        "Networking"
       ],
       "audience": "Mixed",
       "cost": "Paid",
@@ -1417,7 +1361,28 @@
       "flags": [
         "Flagship"
       ],
-      "summary": "Week-long symposium at Jesus College, Cambridge covering economic crime including financial crime, fraud, AML, bribery, and enforcement. Attendees may register for the full week or individual days with accommodation available on-site."
+      "summary": "Week-long symposium at Jesus College covering economic crime, including fraud, AML, bribery, and enforcement. Participants can attend the full week or individual days, with sessions, meals, and networking included."
+    },
+    {
+      "id": "EVT-DFA82929DE",
+      "title": "From Positions to Outcomes: Negotiation in Practice – a Young ICCA Skills Workshop",
+      "organiser": "Young ICCA",
+      "start": "2026-08-26",
+      "end": "2026-08-26",
+      "city": "Singapore",
+      "country": "Singapore",
+      "region": "APAC",
+      "format": "In-person",
+      "topics": [
+        "Arbitration",
+        "Mediation"
+      ],
+      "audience": "Mixed",
+      "cost": "Free",
+      "costDisplay": "Register",
+      "url": "https://www.youngicca.org/positions-outcomes-negotiation-practice-young-icca-skills-workshop",
+      "flags": [],
+      "summary": "Practical skills workshop on negotiation techniques and strategies for arbitration practitioners, covering transition from positions to outcomes."
     },
     {
       "id": "EVT-C6233787B3",
@@ -1460,7 +1425,7 @@
       "costDisplay": "Register your interest",
       "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [],
-      "summary": "Part of Singapore Convention Week, symposium following LCIA Tylney-style format based on delegate-submitted topics."
+      "summary": "Symposium during Singapore Convention Week following LCIA's Tylney-style format. Interactive discussions based on topics submitted by delegates in advance."
     },
     {
       "id": "EVT-3C61BEB765",
@@ -1483,12 +1448,12 @@
       "flags": [
         "Flagship"
       ],
-      "summary": "Two-day symposium at Tylney Hall following established LCIA tradition of open forum discussion based on delegate-submitted topics."
+      "summary": "Two-day symposium at Tylney Hall following long-established LCIA tradition of open forum discussion. Topics submitted by delegates. Flagship event in the LCIA calendar."
     },
     {
       "id": "EVT-5DC8D23D3D",
       "title": "YIAG Tylney Hall Symposium",
-      "organiser": "LCIA YIAG",
+      "organiser": "LCIA Young International Arbitration Group",
       "start": "2026-09-11",
       "end": "2026-09-11",
       "city": "Hampshire",
@@ -1500,11 +1465,11 @@
         "Disputes"
       ],
       "audience": "Junior",
-      "cost": "Free",
+      "cost": "Paid",
       "costDisplay": "Register",
       "url": "https://www.lcia.org/events/2026-yiag-september-tylney-hall-symposium-364.aspx",
       "flags": [],
-      "summary": "Half-day symposium preceding the main LCIA Tylney Hall event. Open forum discussion format based on topics submitted by delegates in advance."
+      "summary": "Half-day symposium preceding the LCIA Tylney Hall Symposium featuring open forum discussion based on delegate-submitted topics."
     },
     {
       "id": "EVT-9C6CFC0D83",
@@ -1518,14 +1483,36 @@
       "format": "In-person",
       "topics": [
         "Arbitration",
-        "Mediation"
+        "Mediation",
+        "Disputes"
       ],
       "audience": "Mixed",
       "cost": "Invite-only",
       "costDisplay": "Members & invite only",
       "url": "https://iccwbo.uk/events/arbitration-and-adr-committee-meeting-23-september-2026/",
       "flags": [],
-      "summary": "Committee meeting for ICC UK arbitration and ADR members. Invitation-only session discussing recent developments in alternative dispute resolution."
+      "summary": "Private committee meeting for ICC UK Arbitration and ADR members. Invitation-only session for committee members to discuss arbitration and dispute resolution matters. Contact arbitration@iccwbo.uk for details."
+    },
+    {
+      "id": "EVT-1C7BBED343",
+      "title": "LCIA Tylney in Town Symposium in Berlin",
+      "organiser": "LCIA",
+      "start": "2026-09-29",
+      "end": "2026-09-29",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "format": "In-person",
+      "topics": [
+        "Arbitration",
+        "Disputes"
+      ],
+      "audience": "Senior",
+      "cost": "Paid",
+      "costDisplay": "Express your interest",
+      "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
+      "flags": [],
+      "summary": "Symposium during Berlin Dispute Resolution Days following traditional Tylney-style format. Interactive discussions based on topics submitted by delegates."
     },
     {
       "id": "EVT-4AAF244FCE",
@@ -1535,7 +1522,7 @@
       "end": "2026-10-02",
       "city": "Istanbul",
       "country": "Türkiye",
-      "region": "MENA",
+      "region": "Europe",
       "format": "In-person",
       "topics": [
         "Arbitration",
@@ -1546,7 +1533,7 @@
       "costDisplay": "Register",
       "url": "https://istanbularbitrationdays.com/",
       "flags": [],
-      "summary": "Multi-day arbitration event supported by LCIA, bringing together the arbitration community in Turkey."
+      "summary": "Multi-day arbitration conference and events in Istanbul. LCIA supporting organisation for this regional arbitration gathering in Turkey."
     },
     {
       "id": "EVT-241A2A0147",
@@ -1567,7 +1554,7 @@
       "costDisplay": "Register your interest",
       "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [],
-      "summary": "Symposium following LCIA Tylney-style format based on delegate-submitted topics."
+      "summary": "LCIA symposium following traditional Tylney-style format with topics submitted by delegates in advance for open forum discussion."
     },
     {
       "id": "EVT-6109AA670C",
@@ -1629,8 +1616,8 @@
       "format": "In-person",
       "topics": [
         "Arbitration",
-        "Disputes",
-        "Policy"
+        "Mediation",
+        "Disputes"
       ],
       "audience": "Mixed",
       "cost": "Paid",
@@ -1639,7 +1626,7 @@
       "flags": [
         "Flagship"
       ],
-      "summary": "Annual conference examining dispute resolution in context of geopolitical tensions. Covers arbitration, mediation, and international dispute mechanisms at EY London offices."
+      "summary": "ICC UK's annual arbitration and ADR conference examining dispute resolution in the context of current geopolitical tensions. Full-day conference at EY offices covering international arbitration, mediation and alternative dispute resolution."
     },
     {
       "id": "EVT-5A7E62A890",
@@ -1659,13 +1646,78 @@
       "cost": "Paid",
       "costDisplay": "Register",
       "url": "https://www.lcia.org/events/2026-lcia-aien-joint-conference-dispute-resolution-in-the-inter-367.aspx",
+      "flags": [
+        "Flagship"
+      ],
+      "summary": "Two-day conference on energy dispute resolution featuring leading advocates, counsel, experts and arbitrators. Interactive format with panels, presentations, interviews, roundtables and Q&A sessions."
+    },
+    {
+      "id": "EVT-3969F07435",
+      "title": "LCIA Tylney in Town Symposium in New York",
+      "organiser": "LCIA",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "city": "New York",
+      "country": "USA",
+      "region": "North America",
+      "format": "In-person",
+      "topics": [
+        "Arbitration",
+        "Disputes"
+      ],
+      "audience": "Senior",
+      "cost": "Paid",
+      "costDisplay": "Register your interest",
+      "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [],
-      "summary": "Two-day conference featuring speaker panels on energy disputes, with leading advocates, counsel, experts and arbitrators in interactive format."
+      "summary": "Interactive symposium during New York Arbitration Week. Topics and format follow LCIA traditions for open discussion among arbitration practitioners."
+    },
+    {
+      "id": "EVT-D406DF15B4",
+      "title": "LCIA Tylney in Town Symposium in Miami",
+      "organiser": "LCIA",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "city": "Miami",
+      "country": "USA",
+      "region": "North America",
+      "format": "In-person",
+      "topics": [
+        "Arbitration",
+        "Disputes"
+      ],
+      "audience": "Senior",
+      "cost": "Paid",
+      "costDisplay": "Register your interest",
+      "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
+      "flags": [],
+      "summary": "Interactive half-day symposium during Miami Arbitration Week concluding with cocktail reception. Follows LCIA's Tylney-style format for open forum discussion."
+    },
+    {
+      "id": "EVT-54E577F899",
+      "title": "LCIA Symposium in London",
+      "organiser": "LCIA",
+      "start": "2026-12-01",
+      "end": "2026-12-01",
+      "city": "London",
+      "country": "England",
+      "region": "UK",
+      "format": "In-person",
+      "topics": [
+        "Arbitration",
+        "Disputes"
+      ],
+      "audience": "Senior",
+      "cost": "Paid",
+      "costDisplay": "Register your interest",
+      "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
+      "flags": [],
+      "summary": "Full-day symposium during London Arbitration Week following long-established LCIA tradition of open forum discussion. Topics submitted by delegates in advance."
     },
     {
       "id": "EVT-DFC521926E",
       "title": "YIAG Tylney Hall Symposium",
-      "organiser": "LCIA YIAG",
+      "organiser": "LCIA Young International Arbitration Group",
       "start": "2027-05-14",
       "end": "2027-05-14",
       "city": "Hampshire",
@@ -1678,15 +1730,15 @@
       ],
       "audience": "Junior",
       "cost": "Free",
-      "costDisplay": "Register",
+      "costDisplay": "TBC",
       "url": "https://www.lcia.org/Membership/YIAG/Young_International_Arbitration_Group.aspx",
       "flags": [],
-      "summary": "Half-day symposium preceding the LCIA Tylney Hall event. Open forum discussion format based on topics submitted by delegates in advance."
+      "summary": "Half-day symposium preceding the LCIA Tylney Hall Symposium featuring open forum discussion based on delegate-submitted topics."
     },
     {
       "id": "EVT-3C352674DE",
       "title": "YIAG Tylney Hall Symposium",
-      "organiser": "LCIA YIAG",
+      "organiser": "LCIA Young International Arbitration Group",
       "start": "2027-09-17",
       "end": "2027-09-17",
       "city": "Hampshire",
@@ -1699,10 +1751,10 @@
       ],
       "audience": "Junior",
       "cost": "Free",
-      "costDisplay": "Register",
+      "costDisplay": "TBC",
       "url": "https://www.lcia.org/Membership/YIAG/Young_International_Arbitration_Group.aspx",
       "flags": [],
-      "summary": "Half-day symposium preceding the LCIA Tylney Hall event. Open forum discussion format based on topics submitted by delegates in advance."
+      "summary": "Half-day symposium preceding the LCIA Tylney Hall Symposium featuring open forum discussion based on delegate-submitted topics."
     }
   ]
 }
