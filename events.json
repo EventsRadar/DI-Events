@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T10:58:13.042277Z",
-  "event_count": 33,
+  "generated_at": "2026-06-22T10:44:06.343786Z",
+  "event_count": 30,
   "events": [
     {
       "id": "EVT-9A4D825488",
@@ -45,68 +45,6 @@
       "url": "https://www.ciarb.org/events/the-learning-lab/",
       "flags": [],
       "summary": "Multi-session online training programme covering fundamentals of arbitration, mediation and alternative dispute resolution methods for practitioners."
-    },
-    {
-      "id": "EVT-815C3100A5",
-      "title": "CanArbWeek Young Members Social",
-      "organiser": "LCIA Young International Arbitration Group",
-      "start": "2026-06-09",
-      "end": "2026-06-09",
-      "city": "Toronto",
-      "country": "Canada",
-      "region": "North America",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Networking"
-      ],
-      "audience": "Junior",
-      "cost": "Free",
-      "costDisplay": "Register",
-      "url": "https://lp.constantcontactpages.com/ev/reg/99fa2g4/lp/16b57ecd-2df4-4e99-ba0d-1e357c0fb423?__cf_chl_tk=PBaGhQ1dfhAxSjGbvaLtWrZFcTi7YsJWPVDqGLnzfqU-1777568967-1.0.1.1-hQyi3GLgjiRYzOjFe9gBX3FKA3ehG8GCqmZ9o76qX.w",
-      "flags": [],
-      "summary": "Afternoon social networking event for young arbitration practitioners with drinks and canapés, following main CanArbWeek programming."
-    },
-    {
-      "id": "EVT-A6810F726E",
-      "title": "Young ICCA Workshop on Oral Advocacy",
-      "organiser": "Young ICCA",
-      "start": "2026-06-10",
-      "end": "2026-06-10",
-      "city": "Rome",
-      "country": "Italy",
-      "region": "Europe",
-      "format": "In-person",
-      "topics": [
-        "Arbitration"
-      ],
-      "audience": "Mixed",
-      "cost": "Free",
-      "costDisplay": "Register",
-      "url": "https://www.youngicca.org/young-icca-workshop-oral-advocacy-5",
-      "flags": [],
-      "summary": "Interactive skills training workshop focused on oral advocacy techniques for young arbitration practitioners, scholars and students in Rome."
-    },
-    {
-      "id": "EVT-292E2A7B9C",
-      "title": "LCIA Tylney in Town Symposium in Rome",
-      "organiser": "LCIA",
-      "start": "2026-06-12",
-      "end": "2026-06-12",
-      "city": "Rome",
-      "country": "Italy",
-      "region": "Europe",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Disputes"
-      ],
-      "audience": "Senior",
-      "cost": "Paid",
-      "costDisplay": "Register your interest",
-      "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
-      "flags": [],
-      "summary": "LCIA symposium during Italian Arbitration Day following the traditional Tylney-style format. Topics submitted by delegates in advance for interactive discussion."
     },
     {
       "id": "EVT-080842485C",
