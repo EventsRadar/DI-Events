@@ -35,8 +35,6 @@
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
   }
-
-  /* ============ APP SHELL ============ */
   .app {
     display: grid;
     grid-template-rows: auto 1fr;
@@ -47,8 +45,6 @@
     border-left: 1px solid var(--line);
     border-right: 1px solid var(--line);
   }
-
-  /* ============ TOP BAR ============ */
   .topbar {
     background: var(--panel);
     border-bottom: 1px solid var(--line);
@@ -57,11 +53,7 @@
     align-items: center;
     gap: 20px;
   }
-  .brand {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
+  .brand { display: flex; align-items: center; gap: 10px; }
   .brand-mark {
     width: 28px; height: 28px;
     background: var(--ink);
@@ -88,16 +80,8 @@
     font-weight: 600;
     letter-spacing: -0.01em;
   }
-  .brand-sub {
-    font-size: 11px;
-    color: var(--ink-mute);
-    margin-left: 8px;
-  }
-  .nav-tabs {
-    display: flex;
-    gap: 2px;
-    margin-left: 16px;
-  }
+  .brand-sub { font-size: 11px; color: var(--ink-mute); margin-left: 8px; }
+  .nav-tabs { display: flex; gap: 2px; margin-left: 16px; }
   .nav-tab {
     padding: 7px 14px;
     font-size: 12.5px;
@@ -111,10 +95,7 @@
     transition: background 0.12s;
   }
   .nav-tab:hover { background: var(--line-soft); }
-  .nav-tab.active {
-    background: var(--ink);
-    color: var(--panel);
-  }
+  .nav-tab.active { background: var(--ink); color: var(--panel); }
   .topbar-right {
     margin-left: auto;
     display: flex;
@@ -147,14 +128,8 @@
     transition: all 0.12s;
   }
   .btn:hover { border-color: var(--ink-mute); background: #fcfbf7; }
-  .btn-primary {
-    background: var(--ink);
-    color: var(--panel);
-    border-color: var(--ink);
-  }
+  .btn-primary { background: var(--ink); color: var(--panel); border-color: var(--ink); }
   .btn-primary:hover { background: #2a3141; border-color: #2a3141; }
-
-  /* ============ PAGE HEADER ============ */
   .page-header {
     padding: 22px 28px 18px;
     border-bottom: 1px solid var(--line);
@@ -170,10 +145,7 @@
     letter-spacing: -0.015em;
     margin-bottom: 4px;
   }
-  .page-sub {
-    color: var(--ink-soft);
-    font-size: 12.5px;
-  }
+  .page-sub { color: var(--ink-soft); font-size: 12.5px; }
   .view-toggle {
     display: flex;
     border: 1px solid var(--line);
@@ -192,12 +164,7 @@
     font-weight: 500;
   }
   .view-toggle button:last-child { border-right: none; }
-  .view-toggle button.active {
-    background: var(--ink);
-    color: var(--panel);
-  }
-
-  /* ============ KPI STRIP ============ */
+  .view-toggle button.active { background: var(--ink); color: var(--panel); }
   .kpi-row {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -222,26 +189,15 @@
     font-weight: 600;
     line-height: 1;
   }
-  .kpi-sub {
-    font-size: 11px;
-    color: var(--ink-soft);
-    margin-top: 5px;
-  }
-
-  /* ============ MAIN LAYOUT ============ */
+  .kpi-sub { font-size: 11px; color: var(--ink-soft); margin-top: 5px; }
   .main {
     display: grid;
     grid-template-columns: 240px 1fr 320px;
     min-height: 640px;
   }
-
-  .main.sources-active {
-    grid-template-columns: 1fr;
-  }
+  .main.sources-active { grid-template-columns: 1fr; }
   .main.sources-active .filters,
   .main.sources-active .side { display: none; }
-
-  /* ============ FILTERS ============ */
   .filters {
     border-right: 1px solid var(--line);
     padding: 20px;
@@ -288,11 +244,7 @@
     font-family: inherit;
   }
   .chip:hover { border-color: var(--ink-mute); color: var(--ink); }
-  .chip.on {
-    background: var(--ink);
-    color: var(--panel);
-    border-color: var(--ink);
-  }
+  .chip.on { background: var(--ink); color: var(--panel); border-color: var(--ink); }
   .chip-count {
     margin-left: 4px;
     color: var(--ink-mute);
@@ -339,8 +291,6 @@
     font-family: inherit;
     color: var(--ink);
   }
-
-  /* ============ CONTENT ============ */
   .content {
     padding: 20px 26px;
     overflow: hidden;
@@ -355,20 +305,9 @@
     gap: 12px;
     flex-wrap: wrap;
   }
-  .content-head h2 {
-    font-family: Georgia, serif;
-    font-size: 16px;
-    font-weight: 600;
-  }
-  .content-actions {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  .result-count {
-    font-size: 11.5px;
-    color: var(--ink-mute);
-  }
+  .content-head h2 { font-family: Georgia, serif; font-size: 16px; font-weight: 600; }
+  .content-actions { display: flex; align-items: center; gap: 10px; }
+  .result-count { font-size: 11.5px; color: var(--ink-mute); }
   .sort-select {
     font-size: 11.5px;
     padding: 5px 8px;
@@ -379,8 +318,6 @@
     color: var(--ink);
     cursor: pointer;
   }
-
-  /* List view */
   .event-list {
     display: flex;
     flex-direction: column;
@@ -406,11 +343,7 @@
     width: 100%;
   }
   .event:hover { background: #fcfbf7; }
-  .event-date {
-    font-family: Georgia, serif;
-    text-align: center;
-    padding-top: 2px;
-  }
+  .event-date { font-family: Georgia, serif; text-align: center; padding-top: 2px; }
   .event-date .month {
     font-size: 9.5px;
     text-transform: uppercase;
@@ -418,38 +351,14 @@
     color: var(--accent);
     font-weight: 600;
   }
-  .event-date .day {
-    font-size: 22px;
-    font-weight: 600;
-    line-height: 1;
-    margin-top: 2px;
-  }
-  .event-date .range {
-    font-size: 10px;
-    color: var(--ink-mute);
-    margin-top: 2px;
-  }
+  .event-date .day { font-size: 22px; font-weight: 600; line-height: 1; margin-top: 2px; }
+  .event-date .range { font-size: 10px; color: var(--ink-mute); margin-top: 2px; }
   .event-body { min-width: 0; }
-  .event-body .title {
-    font-weight: 600;
-    font-size: 13.5px;
-    line-height: 1.35;
-    margin-bottom: 3px;
-    color: var(--ink);
-  }
-  .event-body .meta {
-    font-size: 11.5px;
-    color: var(--ink-soft);
-    margin-bottom: 6px;
-  }
+  .event-body .title { font-weight: 600; font-size: 13.5px; line-height: 1.35; margin-bottom: 3px; color: var(--ink); }
+  .event-body .meta { font-size: 11.5px; color: var(--ink-soft); margin-bottom: 6px; }
   .event-body .meta .sep { color: var(--ink-mute); margin: 0 6px; }
   .event-body .tags { display: flex; flex-wrap: wrap; gap: 4px; }
-  .tag {
-    font-size: 10.5px;
-    padding: 2px 7px;
-    border-radius: 3px;
-    font-weight: 500;
-  }
+  .tag { font-size: 10.5px; padding: 2px 7px; border-radius: 3px; font-weight: 500; }
   .tag.topic { background: var(--line-soft); color: var(--ink-soft); }
   .tag.format-v { background: var(--teal-soft); color: var(--teal); }
   .tag.format-i { background: var(--accent-soft); color: var(--accent); }
@@ -458,6 +367,9 @@
   .tag.cost-p { background: var(--line-soft); color: var(--ink-soft); }
   .tag.new { background: var(--red-soft); color: var(--red); }
   .tag.flag { background: var(--gold-soft); color: var(--gold); font-weight: 600; }
+  .tag.cat-disputes { background: var(--accent-soft); color: var(--accent); }
+  .tag.cat-investigations { background: var(--teal-soft); color: var(--teal); }
+  .tag.cat-financial_crime { background: var(--gold-soft); color: var(--gold); }
   .event-side {
     font-size: 11px;
     color: var(--ink-soft);
@@ -467,17 +379,9 @@
   }
   .event-side .cost-amt { font-weight: 600; color: var(--ink); display: block; font-size: 12px; }
   .event-side .days-away { margin-top: 3px; color: var(--ink-mute); }
-
-  /* Calendar view */
-  .calendar {
-    border: 1px solid var(--line);
-    border-radius: 6px;
-    overflow: hidden;
-  }
+  .calendar { border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
   .cal-months { display: flex; flex-direction: column; }
-  .cal-month {
-    border-bottom: 1px solid var(--line);
-  }
+  .cal-month { border-bottom: 1px solid var(--line); }
   .cal-month:last-child { border-bottom: none; }
   .cal-month-header {
     background: #fbfaf6;
@@ -558,8 +462,6 @@
     grid-column: span 1;
     cursor: pointer;
   }
-
-  /* ============ SIDE PANEL ============ */
   .side {
     border-left: 1px solid var(--line);
     padding: 20px;
@@ -641,8 +543,6 @@
     min-width: 24px;
   }
   .digest-label { color: var(--ink-soft); font-size: 11.5px; line-height: 1.4; }
-
-  /* ============ MODAL ============ */
   .modal-backdrop {
     position: fixed; inset: 0;
     background: rgba(26,31,46,0.5);
@@ -697,22 +597,15 @@
     margin-bottom: 12px;
   }
   .modal-tags { display: flex; flex-wrap: wrap; gap: 4px; }
-  .modal-body {
-    padding: 20px 26px;
-  }
+  .modal-body { padding: 20px 26px; }
   .modal-grid {
     display: grid;
     grid-template-columns: 120px 1fr;
     gap: 10px 16px;
     font-size: 12.5px;
   }
-  .modal-grid dt {
-    color: var(--ink-mute);
-    font-weight: 500;
-  }
-  .modal-grid dd {
-    color: var(--ink);
-  }
+  .modal-grid dt { color: var(--ink-mute); font-weight: 500; }
+  .modal-grid dd { color: var(--ink); }
   .modal-grid dd a { color: var(--accent); text-decoration: none; word-break: break-all; }
   .modal-grid dd a:hover { text-decoration: underline; }
   .modal-foot {
@@ -724,13 +617,8 @@
     align-items: center;
     gap: 10px;
   }
-  .modal-meta {
-    font-size: 11px;
-    color: var(--ink-mute);
-  }
+  .modal-meta { font-size: 11px; color: var(--ink-mute); }
   .modal-actions { display: flex; gap: 8px; }
-
-  /* ============ EMPTY / TOAST ============ */
   .empty {
     background: var(--panel);
     padding: 48px 20px;
@@ -758,18 +646,11 @@
     transition: opacity 0.2s, transform 0.2s;
     z-index: 200;
   }
-  .toast.show {
-    opacity: 1;
-    transform: translateX(-50%) translateY(0);
-  }
-
-  /* Scrollbar */
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
   ::-webkit-scrollbar { width: 8px; height: 8px; }
   ::-webkit-scrollbar-track { background: transparent; }
   ::-webkit-scrollbar-thumb { background: var(--line); border-radius: 4px; }
   ::-webkit-scrollbar-thumb:hover { background: var(--ink-mute); }
-
-  /* ============ RESPONSIVE ============ */
   @media (max-width: 1200px) {
     .main { grid-template-columns: 220px 1fr; }
     .side { display: none; }
@@ -784,8 +665,6 @@
     .page-header, .content { padding-left: 16px; padding-right: 16px; }
     .nav-tabs .nav-tab:not(.active) { display: none; }
   }
-
-  /* ============ FOOTER ============ */
   .footer {
     padding: 14px 28px;
     border-top: 1px solid var(--line);
@@ -796,23 +675,16 @@
     gap: 12px;
     flex-wrap: wrap;
   }
-  .footer a {
-    color: var(--ink-soft);
-    text-decoration: none;
-  }
+  .footer a { color: var(--ink-soft); text-decoration: none; }
   .footer a:hover { color: var(--accent); text-decoration: underline; }
 </style>
 </head>
 <body>
 <div class="app">
-
-  <!-- ========== TOP BAR ========== -->
   <header class="topbar">
     <div class="brand">
       <div class="brand-mark"><span></span></div>
-      <div>
-        <div class="brand-name">Events Radar</div>
-      </div>
+      <div><div class="brand-name">Events Radar</div></div>
       <div class="brand-sub">Disputes · Investigations · Financial Crime</div>
     </div>
     <nav class="nav-tabs">
@@ -829,8 +701,6 @@
       <button class="btn btn-primary" id="subscribe-btn">Get digest</button>
     </div>
   </header>
-
-  <!-- ========== PAGE HEADER ========== -->
   <div class="page-header">
     <div>
       <h1 class="page-title" id="page-title">Upcoming events</h1>
@@ -841,14 +711,8 @@
       <button data-view="calendar">Calendar</button>
     </div>
   </div>
-
-  <!-- ========== KPI ROW ========== -->
   <div class="kpi-row" id="kpi-row"></div>
-
-  <!-- ========== MAIN ========== -->
   <div class="main">
-
-    <!-- FILTERS -->
     <aside class="filters" id="filters">
       <div class="filter-group">
         <div class="filter-label">Search</div>
@@ -859,17 +723,17 @@
       </div>
       <div class="filter-group">
         <div class="filter-label">
+          <span>Category</span>
+          <button class="clear-btn" data-clear="category">clear</button>
+        </div>
+        <div class="chips" data-group="category" id="chips-category"></div>
+      </div>
+      <div class="filter-group">
+        <div class="filter-label">
           <span>Format</span>
           <button class="clear-btn" data-clear="format">clear</button>
         </div>
         <div class="chips" data-group="format" id="chips-format"></div>
-      </div>
-      <div class="filter-group">
-        <div class="filter-label">
-          <span>Topic</span>
-          <button class="clear-btn" data-clear="topic">clear</button>
-        </div>
-        <div class="chips" data-group="topic" id="chips-topic"></div>
       </div>
       <div class="filter-group">
         <div class="filter-label">
@@ -896,8 +760,6 @@
         </div>
       </div>
     </aside>
-
-    <!-- CONTENT -->
     <main class="content">
       <div class="content-head">
         <h2 id="content-title">Upcoming events</h2>
@@ -914,8 +776,6 @@
       </div>
       <div id="view-container"></div>
     </main>
-
-    <!-- SIDE PANEL -->
     <aside class="side">
       <div class="side-section">
         <div class="side-label">Monday digest</div>
@@ -934,10 +794,7 @@
         <div id="orgs-chart"></div>
       </div>
     </aside>
-
   </div>
-
-  <!-- FOOTER -->
   <footer class="footer">
     <div>
       <span id="footer-count">—</span> events · <span id="footer-sources">—</span> sources · Updated weekly at 06:00 UK
@@ -948,10 +805,7 @@
       <a href="#" id="view-api">API</a>
     </div>
   </footer>
-
 </div>
-
-<!-- ========== MODAL ========== -->
 <div class="modal-backdrop" id="modal">
   <div class="modal">
     <div class="modal-head">
@@ -972,7 +826,6 @@
     </div>
   </div>
 </div>
-
 <div class="toast" id="toast"></div>
 
 <script>
@@ -1011,6 +864,16 @@ const SOURCES = [
 ];
 
 /* ============================================================
+   CATEGORY DISPLAY LABELS
+   ============================================================ */
+const CATEGORY_LABELS = {
+  "disputes": "Disputes",
+  "investigations": "Investigations",
+  "financial_crime": "Financial Crime"
+};
+const CATEGORY_ORDER = ["disputes", "investigations", "financial_crime"];
+
+/* ============================================================
    STATE
    ============================================================ */
 const TODAY = new Date(new Date().toISOString().slice(0,10) + "T00:00:00");
@@ -1018,7 +881,7 @@ const state = {
   page: "events",
   view: "list",
   format: new Set(),
-  topic: new Set(),
+  category: new Set(),
   region: new Set(),
   cost: new Set(),
   search: "",
@@ -1063,16 +926,31 @@ function toast(msg) {
   toast._t = setTimeout(() => t.classList.remove("show"), 2400);
 }
 
+/* Normalise categories: ensures every event has a categories array.
+   Handles old data that might not have the field yet. */
+function ensureCategories(ev) {
+  if (!ev.categories || !Array.isArray(ev.categories) || ev.categories.length === 0) {
+    // Fallback: infer from topics if categories missing
+    const t = (ev.topics || []).join(" ").toLowerCase();
+    const cats = [];
+    if (/arbitration|litigation|mediation|disputes|adr|enforcement of awards/.test(t)) cats.push("disputes");
+    if (/investigations|dawn raid|whistleblow|enforcement|white.collar|sfo|doj|sec compliance/.test(t)) cats.push("investigations");
+    if (/aml|sanctions|bribery|abc|fcpa|fraud|financial crime|money laundering|asset recovery|export controls|market abuse|tax evasion/.test(t)) cats.push("financial_crime");
+    ev.categories = cats.length > 0 ? cats : ["disputes"];
+  }
+  return ev;
+}
+
 /* ============================================================
    FILTER LOGIC
    ============================================================ */
 function applyFilters(list) {
   let out = list.filter(e => parseDate(e.end) >= TODAY);
 
-  if (state.format.size) out = out.filter(e => state.format.has(e.format));
-  if (state.region.size) out = out.filter(e => state.region.has(e.region));
-  if (state.cost.size)   out = out.filter(e => state.cost.has(e.cost));
-  if (state.topic.size)  out = out.filter(e => e.topics.some(t => state.topic.has(t)));
+  if (state.format.size)   out = out.filter(e => state.format.has(e.format));
+  if (state.region.size)   out = out.filter(e => state.region.has(e.region));
+  if (state.cost.size)     out = out.filter(e => state.cost.has(e.cost));
+  if (state.category.size) out = out.filter(e => e.categories.some(c => state.category.has(c)));
 
   if (state.dateFrom) out = out.filter(e => e.end >= state.dateFrom);
   if (state.dateTo)   out = out.filter(e => e.start <= state.dateTo);
@@ -1124,20 +1002,27 @@ function renderKPIs() {
 function renderChips() {
   const upcoming = EVENTS.filter(e => parseDate(e.end) >= TODAY);
 
-  const groups = {
+  // Category chips: fixed set of 3, always in the same order
+  const catContainer = $("#chips-category");
+  catContainer.innerHTML = CATEGORY_ORDER.map(cat => {
+    const label = CATEGORY_LABELS[cat];
+    const count = upcoming.filter(e => e.categories.includes(cat)).length;
+    const on = state.category.has(cat) ? " on" : "";
+    return `<button class="chip${on}" data-val="${cat}">${label}<span class="chip-count">${count}</span></button>`;
+  }).join("");
+
+  // Format, region, cost: dynamic as before
+  const dynamicGroups = {
     format: [...new Set(upcoming.map(e => e.format))].sort(),
     region: [...new Set(upcoming.map(e => e.region))].sort(),
-    cost: [...new Set(upcoming.map(e => e.cost))].sort(),
-    topic: [...new Set(upcoming.flatMap(e => e.topics))].sort()
+    cost: [...new Set(upcoming.map(e => e.cost))].sort()
   };
 
-  for (const [group, values] of Object.entries(groups)) {
+  for (const [group, values] of Object.entries(dynamicGroups)) {
     const container = $("#chips-" + group);
     const selected = state[group];
     container.innerHTML = values.map(v => {
-      let count;
-      if (group === "topic") count = upcoming.filter(e => e.topics.includes(v)).length;
-      else count = upcoming.filter(e => e[group] === v).length;
+      const count = upcoming.filter(e => e[group] === v).length;
       const on = selected.has(v) ? " on" : "";
       return `<button class="chip${on}" data-val="${v}">${v}<span class="chip-count">${count}</span></button>`;
     }).join("");
@@ -1178,9 +1063,10 @@ function renderList(list) {
     const daysAway = daysFromToday(e.start);
 
     const tags = [
+      ...e.categories.map(c => `<span class="tag cat-${c}">${CATEGORY_LABELS[c] || c}</span>`),
       `<span class="tag ${formatCls}">${e.format}</span>`,
       `<span class="tag ${costCls}">${e.cost}</span>`,
-      ...e.topics.slice(0, 3).map(t => `<span class="tag topic">${t}</span>`),
+      ...e.topics.slice(0, 2).map(t => `<span class="tag topic">${t}</span>`),
       ...e.flags.map(f => `<span class="tag flag">${f}</span>`)
     ].join("");
 
@@ -1215,7 +1101,6 @@ function renderCalendar(list) {
     return;
   }
 
-  // Determine the range of months to render
   const latestIso = list.reduce((acc, e) => e.end > acc ? e.end : acc, list[0].end);
   const latestDate = parseDate(latestIso);
   const finalMonthStart = new Date(latestDate.getFullYear(), latestDate.getMonth(), 1);
@@ -1225,7 +1110,7 @@ function renderCalendar(list) {
   const dowLabels = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"];
   const todayStr = TODAY.toISOString().slice(0,10);
   const monthsHtml = [];
-  const MAX_LANES = 3; // max event ribbons per week row
+  const MAX_LANES = 3;
 
   let cursor = new Date(TODAY.getFullYear(), TODAY.getMonth(), 1);
   while (cursor <= capMonth) {
@@ -1233,14 +1118,12 @@ function renderCalendar(list) {
     const m = cursor.getMonth();
     const monthName = cursor.toLocaleString("en-GB", { month: "long", year: "numeric" });
 
-    // Build weeks for this month
     const firstDayDow = (cursor.getDay() + 6) % 7;
     const gridStart = new Date(y, m, 1 - firstDayDow);
     const lastDay = new Date(y, m + 1, 0);
     const lastDayDow = (lastDay.getDay() + 6) % 7;
     const gridEnd = new Date(y, m, lastDay.getDate() + (6 - lastDayDow));
 
-    // Build array of weeks, each week = array of 7 day ISO strings
     const weeks = [];
     let weekDays = [];
     for (let d = new Date(gridStart); d <= gridEnd; d.setDate(d.getDate() + 1)) {
@@ -1252,7 +1135,6 @@ function renderCalendar(list) {
     }
     if (weekDays.length) weeks.push(weekDays);
 
-    // Count unique events this calendar month
     const monthEventIds = new Set();
     for (let d = new Date(y, m, 1); d <= lastDay; d.setDate(d.getDate() + 1)) {
       const iso = d.toISOString().slice(0,10);
@@ -1261,15 +1143,11 @@ function renderCalendar(list) {
       });
     }
 
-    // Render weeks
     const weeksHtml = weeks.map(week => {
       const weekStart = week[0];
       const weekEnd = week[6];
-
-      // Find all events overlapping this week
       const weekEvents = list.filter(e => e.start <= weekEnd && e.end >= weekStart);
 
-      // Sort: multi-day first (longer events first), then by start date, then title
       weekEvents.sort((a, b) => {
         const aDays = Math.max(1, Math.round((parseDate(a.end) - parseDate(a.start)) / 86400000) + 1);
         const bDays = Math.max(1, Math.round((parseDate(b.end) - parseDate(b.start)) / 86400000) + 1);
@@ -1278,21 +1156,17 @@ function renderCalendar(list) {
         return a.title.localeCompare(b.title);
       });
 
-      // Assign events to lanes to avoid visual overlap
-      // Each lane tracks which columns are occupied
-      const lanes = []; // array of arrays of { event, colStart, colEnd }
+      const lanes = [];
       const placed = [];
       const overflow = [];
 
       weekEvents.forEach(ev => {
-        // Clamp event to this week
         const evStart = ev.start < weekStart ? weekStart : ev.start;
         const evEnd = ev.end > weekEnd ? weekEnd : ev.end;
         const colStart = week.indexOf(evStart);
         const colEnd = week.indexOf(evEnd);
         if (colStart < 0 || colEnd < 0) return;
 
-        // Find first lane where columns colStart..colEnd are free
         let assigned = false;
         for (let li = 0; li < lanes.length; li++) {
           const lane = lanes[li];
@@ -1318,7 +1192,6 @@ function renderCalendar(list) {
         }
       });
 
-      // Render day number cells
       const dayCells = week.map(iso => {
         const d = parseDate(iso);
         const inMonth = d.getMonth() === m;
@@ -1326,11 +1199,9 @@ function renderCalendar(list) {
         return `<div class="cal-day${inMonth ? "" : " other"}${isToday ? " today" : ""}"><div class="cal-day-num">${d.getDate()}</div></div>`;
       }).join("");
 
-      // Render event lanes
       const lanesHtml = [];
       for (let li = 0; li < lanes.length; li++) {
         const items = placed.filter(p => p.lane === li);
-        // Build lane: fill all 7 columns, either with an event or empty spacer
         const cols = new Array(7).fill(null);
         items.forEach(p => { cols[p.colStart] = p; });
 
@@ -1344,15 +1215,9 @@ function renderCalendar(list) {
             const cls = ev.flags.includes("Flagship") ? "flagship"
                       : ev.format === "Virtual" ? "virtual"
                       : ev.format === "Hybrid" ? "hybrid" : "";
-            // Determine ribbon shape
             const startsHere = ev.start >= p.evStart;
             const endsHere = ev.end <= p.evEnd;
             let shape = "span-single";
-            if (!startsHere && !endsHere) shape = "span-mid";
-            else if (!startsHere) shape = "span-end";
-            else if (!endsHere) shape = "span-start";
-            else if (span > 1) shape = "span-single";
-            // For multi-day events within same week
             if (startsHere && endsHere && span > 1) {
               shape = "span-single";
             } else if (startsHere && !endsHere) {
@@ -1375,9 +1240,7 @@ function renderCalendar(list) {
         lanesHtml.push(laneHtml);
       }
 
-      // Overflow "+N more" indicators
       if (overflow.length > 0) {
-        // Count overflow per day
         const overflowByCol = {};
         overflow.forEach(o => {
           for (let c = o.colStart; c <= o.colEnd; c++) {
@@ -1439,6 +1302,7 @@ function renderSide() {
     <div class="digest-item"><div class="digest-n">${flag30}</div><div class="digest-label">flagship events ahead</div></div>
   `;
 
+  // Topics chart on right — unchanged, still uses detailed topics
   const topicCounts = {};
   next90.forEach(e => e.topics.forEach(t => { topicCounts[t] = (topicCounts[t] || 0) + 1; }));
   const topTopics = Object.entries(topicCounts).sort((a,b) => b[1]-a[1]).slice(0,7);
@@ -1560,6 +1424,7 @@ function openModal(id) {
   const formatCls = e.format === "Virtual" ? "format-v" : e.format === "In-person" ? "format-i" : "format-h";
   const costCls = e.cost === "Free" ? "cost-f" : "cost-p";
   $("#m-tags").innerHTML = [
+    ...e.categories.map(c => `<span class="tag cat-${c}">${CATEGORY_LABELS[c] || c}</span>`),
     `<span class="tag ${formatCls}">${e.format}</span>`,
     `<span class="tag ${costCls}">${e.cost}</span>`,
     ...e.topics.map(t => `<span class="tag topic">${t}</span>`),
@@ -1570,6 +1435,7 @@ function openModal(id) {
     <dt>When</dt><dd>${dateStr} <span style="color: var(--ink-mute);">· ${daysAwayLabel(daysAway)}</span></dd>
     <dt>Where</dt><dd>${e.city}${e.country ? ", " + e.country : ""}</dd>
     <dt>Format</dt><dd>${e.format}</dd>
+    <dt>Categories</dt><dd>${e.categories.map(c => CATEGORY_LABELS[c] || c).join(", ")}</dd>
     <dt>Audience</dt><dd>${e.audience || "—"}</dd>
     <dt>Cost</dt><dd>${e.costDisplay}</dd>
     <dt>Topics</dt><dd>${e.topics.join(", ")}</dd>
@@ -1624,7 +1490,7 @@ function downloadICS(e) {
    ============================================================ */
 function exportCSV() {
   const list = applyFilters(EVENTS);
-  const cols = ["id","title","organiser","start","end","city","country","region","format","cost","costDisplay","audience","topics","flags","url"];
+  const cols = ["id","title","organiser","start","end","city","country","region","format","categories","cost","costDisplay","audience","topics","flags","url"];
   const rows = [cols.join(",")];
   list.forEach(e => {
     rows.push(cols.map(c => {
@@ -1710,8 +1576,10 @@ document.addEventListener("click", ev => {
   if (calEv) { openModal(calEv.dataset.id); return; }
   const topicBar = ev.target.closest("[data-topic]");
   if (topicBar) {
+    // Clicking a topic on the right side panel opens search for that topic
     const t = topicBar.dataset.topic;
-    state.topic.has(t) ? state.topic.delete(t) : state.topic.add(t);
+    state.search = t;
+    $("#search").value = t;
     render();
   }
 });
@@ -1741,7 +1609,7 @@ async function loadData() {
     const res = await fetch(`events.json?v=${bust}`, { cache: "no-cache" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const payload = await res.json();
-    EVENTS = payload.events || [];
+    EVENTS = (payload.events || []).map(ensureCategories);
     if (payload.generated_at) {
       const d = new Date(payload.generated_at);
       const rel = relativeTime(d);
