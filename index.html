@@ -310,7 +310,10 @@
   }
   .drp-dropdown {
     display: none;
-    position: fixed;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    margin-top: 4px;
     background: var(--panel);
     border: 1px solid var(--line);
     border-radius: 6px;
@@ -1763,10 +1766,6 @@ $("#search").addEventListener("input", e => {
   function openPicker() {
     dropdown.classList.add("open");
     trigger.classList.add("active");
-    // Position dropdown below trigger using fixed coordinates
-    const rect = trigger.getBoundingClientRect();
-    dropdown.style.top = (rect.bottom + 4) + "px";
-    dropdown.style.left = rect.left + "px";
     renderPicker();
   }
 
