@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-07-13T08:22:31.798117Z",
-  "event_count": 47,
+  "generated_at": "2026-07-20T08:13:00.346735Z",
+  "event_count": 53,
   "events": [
-    {
-      "id": "EVT-F0B5FC03CF",
-      "title": "IBA Judges Forum: In defence of justice",
-      "organiser": "International Bar Association",
-      "start": "2026-07-09",
-      "end": "2026-07-10",
-      "city": "Abuja",
-      "country": "Nigeria",
-      "region": "Africa",
-      "format": "In-person",
-      "topics": [
-        "Enforcement",
-        "Disputes",
-        "Litigation",
-        "Policy"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Book now",
-      "url": "https://www.ibanet.org/conference-details/CONF2830",
-      "flags": [],
-      "summary": "A judicial forum examining challenges to justice systems and the role of judges in upholding the rule of law across jurisdictions."
-    },
     {
       "id": "EVT-B2A65FFB50",
       "title": "Judicial independence as the key cornerstone for Syria's democratic transition: how to address the risk of capture and ensure fair administration of justice, impartiality and accountability",
@@ -69,27 +46,6 @@
       "summary": "Webinar comparing jurisdictional approaches to recognizing and enforcing annulled arbitration awards, with strategic guidance for practitioners."
     },
     {
-      "id": "EVT-334133A791",
-      "title": "Arbitration in Challenging Times",
-      "organiser": "CIArb London & Qatar Branches",
-      "start": "2026-07-15",
-      "end": "2026-07-15",
-      "city": "Virtual",
-      "country": "",
-      "region": "Global",
-      "format": "Virtual",
-      "topics": [
-        "Arbitration",
-        "Disputes"
-      ],
-      "audience": "Mixed",
-      "cost": "Free",
-      "costDisplay": "Register",
-      "url": "https://www.ciarb.org/events/arbitration-in-challenging-times/",
-      "flags": [],
-      "summary": "Joint international webinar exploring arbitration practice during challenging geopolitical and economic conditions."
-    },
-    {
       "id": "EVT-CF52D20EBB",
       "title": "Towards qualified capital defence in Asia: introduction to the KL Guidelines",
       "organiser": "International Bar Association",
@@ -108,6 +64,27 @@
       "url": "https://www.ibanet.org/conference-details/CONF2911",
       "flags": [],
       "summary": "Webinar introducing the Kuala Lumpur Guidelines on qualified capital defence representation in Asia, addressing standards for death penalty cases."
+    },
+    {
+      "id": "EVT-334133A791",
+      "title": "Arbitration in Challenging Times",
+      "organiser": "CIArb London and Qatar Branches",
+      "start": "2026-07-15",
+      "end": "2026-07-15",
+      "city": "Virtual",
+      "country": "",
+      "region": "Global",
+      "format": "Virtual",
+      "topics": [
+        "Arbitration",
+        "Disputes"
+      ],
+      "audience": "Mixed",
+      "cost": "Free",
+      "costDisplay": "Register",
+      "url": "https://www.ciarb.org/events/arbitration-in-challenging-times/",
+      "flags": [],
+      "summary": "Joint international webinar exploring challenges facing arbitration practice in uncertain times, examining practical and legal issues affecting dispute resolution."
     },
     {
       "id": "EVT-0DD430572C",
@@ -173,6 +150,29 @@
       "summary": "Two-day forum focusing on cartels, transnational criminal organizations, and compliance issues specific to Latin America, held at the DC Bar Association."
     },
     {
+      "id": "EVT-59FBE334AE",
+      "title": "ACI's Forum on Cartels, TCOs & Compliance in Latin America",
+      "organiser": "ACI",
+      "start": "2026-07-20",
+      "end": "2026-07-21",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "North America",
+      "format": "In-person",
+      "topics": [
+        "Compliance",
+        "Enforcement",
+        "ABC",
+        "Bribery"
+      ],
+      "audience": "Senior",
+      "cost": "Paid",
+      "costDisplay": "Save 10% with code D10-999-GLG26",
+      "url": "https://www.cdr-news.com/conferences/acis-forum-on-cartels-tcos-compliance-in-latin-america",
+      "flags": [],
+      "summary": "Two-day forum addressing cartels, transnational criminal organizations, and compliance challenges specific to Latin American jurisdictions and enforcement approaches."
+    },
+    {
       "id": "EVT-CF1B07F0F3",
       "title": "Corporate Counsel & Compliance Exchange USA 2026",
       "organiser": "Corporate Counsel & Compliance Exchange",
@@ -194,6 +194,26 @@
       "summary": "Exchange event bringing together Chief Legal Officers, General Counsel and Chief Compliance Officers from major US organizations."
     },
     {
+      "id": "EVT-71E31862E8",
+      "title": "Part one - Arbitral institutions in MENA & North Africa: fortresses with glass ceilings? Legitimacy, modernisation and capacity building",
+      "organiser": "International Bar Association",
+      "start": "2026-07-21",
+      "end": "2026-07-21",
+      "city": "Virtual",
+      "country": "",
+      "region": "MENA",
+      "format": "Virtual",
+      "topics": [
+        "Arbitration"
+      ],
+      "audience": "Mixed",
+      "cost": "Paid",
+      "costDisplay": "Book now",
+      "url": "https://www.ibanet.org/conference-details/CONF2899",
+      "flags": [],
+      "summary": "Webinar examining arbitral institutions in MENA and North Africa, focusing on their legitimacy, modernisation efforts and capacity building challenges."
+    },
+    {
       "id": "EVT-6448A15414",
       "title": "Delos-Y Tokyo Breakfast",
       "organiser": "Delos Dispute Resolution",
@@ -207,12 +227,12 @@
         "Arbitration",
         "Networking"
       ],
-      "audience": "Mixed",
+      "audience": "Junior",
       "cost": "Free",
       "costDisplay": "View Detail",
       "url": "https://delosdr.org/my-events/delos-y-tokyo-breakfast-22-july-2026/",
       "flags": [],
-      "summary": "A networking breakfast organized by Delos-Y (the young practitioners network of Delos Dispute Resolution) in Tokyo, bringing together professionals interested in international arbitration and dispute resolution."
+      "summary": "Delos-Y Tokyo Breakfast is a networking event for junior arbitration practitioners hosted by Delos Dispute Resolution at Nishimura & Asahi in Tokyo."
     },
     {
       "id": "EVT-AC9C68065F",
@@ -280,7 +300,7 @@
     {
       "id": "EVT-67317DED5F",
       "title": "Walking Through the Ciarb International Arbitration Professional Practice Guidelines",
-      "organiser": "CIArb East Asia, UAE, Malaysia & Singapore Branches",
+      "organiser": "CIArb East Asia, UAE, Malaysia and Singapore Branches",
       "start": "2026-07-23",
       "end": "2026-07-23",
       "city": "Virtual",
@@ -289,7 +309,7 @@
       "format": "Virtual",
       "topics": [
         "Arbitration",
-        "Disputes",
+        "Compliance",
         "Policy"
       ],
       "audience": "Mixed",
@@ -297,7 +317,28 @@
       "costDisplay": "Register",
       "url": "https://www.ciarb.org/events/walking-through-the-ciarb-international-arbitration-professional-practice-guidelines/",
       "flags": [],
-      "summary": "Webinar series examining CIArb's International Arbitration Professional Practice Guidelines, jointly presented by four regional branches."
+      "summary": "Joint webinar series examining CIArb's International Arbitration Professional Practice Guidelines, providing practical guidance on standards and best practices for arbitration practitioners."
+    },
+    {
+      "id": "EVT-96F0F0B1BA",
+      "title": "IBA Rule of Law Forum on enforcement or erasure: non-refoulement",
+      "organiser": "International Bar Association",
+      "start": "2026-07-30",
+      "end": "2026-07-30",
+      "city": "Virtual",
+      "country": "",
+      "region": "Global",
+      "format": "Virtual",
+      "topics": [
+        "Policy",
+        "Enforcement"
+      ],
+      "audience": "Mixed",
+      "cost": "Paid",
+      "costDisplay": "Book now",
+      "url": "https://www.ibanet.org/conference-details/CONF2919",
+      "flags": [],
+      "summary": "Rule of Law Forum webinar examining the principle of non-refoulement and its enforcement or erosion in practice."
     },
     {
       "id": "EVT-A199FBAB25",
@@ -315,18 +356,18 @@
         "AML",
         "Bribery",
         "ABC",
-        "Enforcement",
         "Compliance",
+        "Enforcement",
         "Networking"
       ],
       "audience": "Mixed",
       "cost": "Paid",
-      "costDisplay": "Full week and day tickets available (see registration form)",
-      "url": "https://www.crimesymposium.org/s/2026-Registration-Form.pdf",
+      "costDisplay": "Download registration form",
+      "url": "https://www.crimesymposium.org/register",
       "flags": [
         "Flagship"
       ],
-      "summary": "Week-long symposium at Jesus College Cambridge covering economic crime topics including fraud, money laundering, bribery, and enforcement. Includes sessions, meals, and optional accommodation. Day tickets available for flexible attendance."
+      "summary": "Week-long symposium at Jesus College covering economic crime topics including fraud, money laundering, bribery, and enforcement. Includes sessions, meals, and optional accommodation. Day tickets available for flexible attendance."
     },
     {
       "id": "EVT-DFA82929DE",
@@ -368,7 +409,7 @@
       "costDisplay": "Register",
       "url": "https://www.lcia.org/events/yiag-fireside-chat-and-meet-and-mingle-in-singapore-387.aspx",
       "flags": [],
-      "summary": "Informal Q&A session with LCIA Director General Kevin Nash and Deputy Director General Jamie Harrison, followed by networking for younger arbitration practitioners in Singapore."
+      "summary": "Informal Q&A session with LCIA Director General Kevin Nash for younger arbitration practitioners, followed by networking opportunity in Singapore."
     },
     {
       "id": "EVT-71303CE203",
@@ -382,15 +423,15 @@
       "format": "In-person",
       "topics": [
         "Arbitration",
-        "Mediation",
-        "Disputes"
+        "Disputes",
+        "Networking"
       ],
       "audience": "Junior",
       "cost": "Free",
       "costDisplay": "Register",
       "url": "https://www.youngicca.org/positions-outcomes-negotiation-practice-young-icca-skills-workshop",
       "flags": [],
-      "summary": "A practical skills workshop on negotiation techniques for arbitration advocates, exploring strategies from initial positions to final settlements."
+      "summary": "Interactive skills workshop teaching negotiation techniques for young arbitration practitioners. Focuses on moving from positional bargaining to outcome-oriented strategies in dispute resolution contexts."
     },
     {
       "id": "EVT-C6233787B3",
@@ -433,7 +474,7 @@
       "costDisplay": "Register here",
       "url": "https://www.lcia.org/events/2026-lcia-tylney-in-town-symposium-in-singapore-391.aspx",
       "flags": [],
-      "summary": "Interactive symposium during Singapore Convention Week following the traditional LCIA Tylney-style format, with topics submitted by delegates in advance for open forum discussion."
+      "summary": "Interactive symposium during Singapore Convention Week following the LCIA Tylney-style format, with topics submitted by delegates in advance for open forum discussion."
     },
     {
       "id": "EVT-1E31B08AAC",
@@ -452,10 +493,10 @@
       ],
       "audience": "Mixed",
       "cost": "Invite-only",
-      "costDisplay": "Please get in touch to find out more - arbitration@iccwbo.uk",
+      "costDisplay": "Please get in touch to find out more",
       "url": "https://iccwbo.uk/events/icc-united-kingdom-delegation-visit-to-the-icc-international-court-of-arbitration-9-september-2026/",
       "flags": [],
-      "summary": "Delegation visit to the ICC International Court of Arbitration in Paris for UK members and invited guests to engage with the institution and learn about international arbitration processes."
+      "summary": "Delegation visit to the ICC International Court of Arbitration in Paris for members and invitees to engage with the international arbitration institution."
     },
     {
       "id": "EVT-3C61BEB765",
@@ -464,7 +505,7 @@
       "start": "2026-09-11",
       "end": "2026-09-13",
       "city": "Hampshire",
-      "country": "United Kingdom",
+      "country": "England",
       "region": "UK",
       "format": "In-person",
       "topics": [
@@ -478,7 +519,7 @@
       "flags": [
         "Flagship"
       ],
-      "summary": "Two-day symposium at Tylney Hall following the long-established LCIA tradition of open forum discussion based on topics submitted by delegates in advance."
+      "summary": "Two-day symposium at Tylney Hall following the long-established LCIA tradition of open forum discussion, based on topics submitted by delegates in advance."
     },
     {
       "id": "EVT-5DC8D23D3D",
@@ -499,7 +540,28 @@
       "costDisplay": "Register",
       "url": "https://www.lcia.org/events/2026-yiag-september-tylney-hall-symposium-364.aspx",
       "flags": [],
-      "summary": "Half-day symposium preceding the LCIA Tylney Hall Symposium, featuring open forum discussion on topics submitted by delegates in advance."
+      "summary": "Half-day symposium preceding LCIA Tylney Hall Symposium featuring open forum discussion on topics submitted by delegates in advance."
+    },
+    {
+      "id": "EVT-80A4BDD440",
+      "title": "Chief Litigation Officer Summit 2026",
+      "organiser": "Chief Litigation Officer Summit",
+      "start": "2026-09-17",
+      "end": "2026-09-17",
+      "city": "Boston",
+      "country": "United States",
+      "region": "North America",
+      "format": "In-person",
+      "topics": [
+        "Litigation",
+        "Disputes"
+      ],
+      "audience": "Senior",
+      "cost": "Invite-only",
+      "costDisplay": "Invitation only",
+      "url": "https://www.cdr-news.com/conferences/chief-litigation-officer-summit-2026-september",
+      "flags": [],
+      "summary": "Invitation-only forum bringing together senior litigation leaders to discuss strategy, innovation, and emerging challenges in corporate litigation management."
     },
     {
       "id": "EVT-9C6CFC0D83",
@@ -524,6 +586,27 @@
       "summary": "Committee meeting for ICC UK members and invited arbitration and ADR practitioners to discuss current developments and policy issues in dispute resolution."
     },
     {
+      "id": "EVT-FBF4C6251A",
+      "title": "Arbitration and ADR Committee Meeting",
+      "organiser": "ICC United Kingdom",
+      "start": "2026-09-23",
+      "end": "2026-09-23",
+      "city": "",
+      "country": "United Kingdom",
+      "region": "UK",
+      "format": "In-person",
+      "topics": [
+        "Arbitration",
+        "Mediation"
+      ],
+      "audience": "Mixed",
+      "cost": "Invite-only",
+      "costDisplay": "Members & invite only",
+      "url": "https://iccwbo.uk/events/arbitration-and-adr-committee-meeting-23-september-2026/",
+      "flags": [],
+      "summary": "Committee meeting for members and invitees to discuss arbitration and alternative dispute resolution matters."
+    },
+    {
       "id": "EVT-4513AC7332",
       "title": "Side Event of the Berlin Dispute Resolution Days",
       "organiser": "CIArb",
@@ -538,12 +621,12 @@
         "Disputes",
         "Policy"
       ],
-      "audience": "Mixed",
+      "audience": "Senior",
       "cost": "Free",
       "costDisplay": "Register",
       "url": "https://www.ciarb.org/events/side-event-of-the-berlin-dispute-resolution-days/",
       "flags": [],
-      "summary": "Side event examining ongoing reforms to arbitration frameworks and shifts in international dispute resolution practice."
+      "summary": "Side event examining ongoing reforms to arbitration frameworks and broader shifts in international dispute resolution practice, held during Berlin Dispute Resolution Days."
     },
     {
       "id": "EVT-4AAF244FCE",
@@ -603,15 +686,15 @@
       ],
       "audience": "Mixed",
       "cost": "Paid",
-      "costDisplay": "Express your interest here",
+      "costDisplay": "Express your interest",
       "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [],
-      "summary": "Symposium following the traditional LCIA Tylney-style format, based on topics submitted by delegates in advance of the event."
+      "summary": "Interactive symposium following the traditional LCIA Tylney-style format, based on topics submitted by delegates in advance of the event."
     },
     {
       "id": "EVT-D0D91C2167",
       "title": "Comprehensive Course on International Arbitration",
-      "organiser": "CIArb New York Branch & Columbia Law School",
+      "organiser": "CIArb New York Branch / Columbia Law School",
       "start": "2026-10-05",
       "end": "2026-10-08",
       "city": "New York",
@@ -627,7 +710,7 @@
       "costDisplay": "Register",
       "url": "https://www.ciarb.org/events/comprehensive-course-on-international-arbitration/",
       "flags": [],
-      "summary": "Four-day intensive course exploring the law and practice of international arbitration at Columbia Law School."
+      "summary": "Four-day intensive course covering the law and practice of international arbitration, hosted at Columbia Law School with comprehensive training for practitioners."
     },
     {
       "id": "EVT-701718A39D",
@@ -652,6 +735,50 @@
       "url": "https://www.cdr-news.com/conferences/4th-annual-women-in-aml-sanctions-forum",
       "flags": [],
       "summary": "Two-day forum focusing on anti-money laundering and sanctions compliance, with emphasis on women professionals in financial crime prevention."
+    },
+    {
+      "id": "EVT-792E0D31BF",
+      "title": "4th Annual Women in AML & Sanctions Forum",
+      "organiser": "ACI",
+      "start": "2026-10-06",
+      "end": "2026-10-07",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "North America",
+      "format": "In-person",
+      "topics": [
+        "AML",
+        "Sanctions",
+        "Financial Crime",
+        "Compliance"
+      ],
+      "audience": "Mixed",
+      "cost": "Paid",
+      "costDisplay": "Save 10% with code D10-999-ICLG27",
+      "url": "https://www.cdr-news.com/conferences/4th-annual-women-in-aml-sanctions-forum",
+      "flags": [],
+      "summary": "Two-day forum focused on anti-money laundering and sanctions compliance, promoting diversity and professional development for women in financial crime prevention."
+    },
+    {
+      "id": "EVT-0F5D450DB5",
+      "title": "North East Branch Mock Mediation - Another brick in the wall",
+      "organiser": "CIArb North East Branch",
+      "start": "2026-10-07",
+      "end": "2026-10-07",
+      "city": "Virtual",
+      "country": "UK",
+      "region": "UK",
+      "format": "Virtual",
+      "topics": [
+        "Mediation",
+        "Disputes"
+      ],
+      "audience": "Mixed",
+      "cost": "Free",
+      "costDisplay": "Register",
+      "url": "https://www.ciarb.org/events/north-east-branch-mock-mediation-another-brick-in-the-wall/",
+      "flags": [],
+      "summary": "Interactive mock mediation combining entertainment and practical learning. Participants observe a simulated mediation scenario for professional development in dispute resolution techniques."
     },
     {
       "id": "EVT-6109AA670C",
@@ -693,10 +820,10 @@
       ],
       "audience": "Mixed",
       "cost": "Paid",
-      "costDisplay": "Express your interest here",
+      "costDisplay": "Express your interest",
       "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [],
-      "summary": "Symposium during Australia Arbitration Week following the traditional LCIA Tylney-style format, with topics submitted by delegates in advance."
+      "summary": "Symposium during Australia Arbitration Week following the traditional LCIA Tylney-style format, based on topics submitted by delegates in advance."
     },
     {
       "id": "EVT-959539158D",
@@ -710,7 +837,6 @@
       "format": "Virtual",
       "topics": [
         "Mediation",
-        "Disputes",
         "Networking"
       ],
       "audience": "Mixed",
@@ -718,7 +844,7 @@
       "costDisplay": "Register",
       "url": "https://www.ciarb.org/events/pathways-into-mediation/",
       "flags": [],
-      "summary": "An online session exploring career pathways and opportunities in mediation practice, organised by the Chartered Institute of Arbitrators."
+      "summary": "An introductory session exploring different pathways and career routes into professional mediation practice, suitable for those considering mediation as a career option."
     },
     {
       "id": "EVT-FC6D006065",
@@ -781,8 +907,7 @@
       "topics": [
         "Arbitration",
         "Disputes",
-        "Mediation",
-        "Policy"
+        "Mediation"
       ],
       "audience": "Mixed",
       "cost": "Paid",
@@ -791,7 +916,7 @@
       "flags": [
         "Flagship"
       ],
-      "summary": "Annual Arbitration and ADR Conference examining how geopolitical tensions and global instability impact dispute resolution strategies, mechanisms, and outcomes. Held at EY in London."
+      "summary": "Annual arbitration and ADR conference exploring dispute resolution challenges and strategies in a geopolitical context at EY London."
     },
     {
       "id": "EVT-5A7E62A890",
@@ -800,19 +925,21 @@
       "start": "2026-10-15",
       "end": "2026-10-16",
       "city": "London",
-      "country": "United Kingdom",
+      "country": "England",
       "region": "UK",
       "format": "In-person",
       "topics": [
         "Arbitration",
         "Disputes"
       ],
-      "audience": "Mixed",
+      "audience": "Senior",
       "cost": "Paid",
       "costDisplay": "Register here",
       "url": "https://www.lcia.org/events/2026-lcia-aien-joint-conference-dispute-resolution-in-the-inter-367.aspx",
-      "flags": [],
-      "summary": "Two-day conference with speaker panels addressing various topics in energy dispute resolution, featuring leading advocates, counsel, experts and arbitrators in interactive format."
+      "flags": [
+        "Flagship"
+      ],
+      "summary": "Two-day conference featuring speaker panels with leading advocates, counsel, experts and arbitrators addressing dispute resolution topics in the international energy sector."
     },
     {
       "id": "EVT-7A853E241D",
@@ -828,16 +955,17 @@
         "Fraud",
         "Asset Recovery",
         "Investigations",
+        "Financial Crime",
         "Enforcement"
       ],
-      "audience": "Mixed",
+      "audience": "Senior",
       "cost": "Paid",
       "costDisplay": "Save 10% with code D10-999-GLG27",
       "url": "https://www.cdr-news.com/conferences/15th-anniversary-edition-fraud-asset-tracing-recovery-miami",
       "flags": [
         "Flagship"
       ],
-      "summary": "Fifteenth anniversary edition covering fraud investigations, asset tracing techniques, and recovery strategies in cross-border cases."
+      "summary": "Landmark 15th anniversary conference addressing fraud investigation, cross-border asset tracing, recovery strategies, and enforcement mechanisms."
     },
     {
       "id": "EVT-D406DF15B4",
@@ -865,9 +993,9 @@
       "title": "LCIA Tylney in Town Symposium in New York",
       "organiser": "LCIA",
       "start": "2026-11-01",
-      "end": "2026-11-01",
+      "end": "2026-11-30",
       "city": "New York",
-      "country": "United States",
+      "country": "USA",
       "region": "North America",
       "format": "In-person",
       "topics": [
@@ -876,10 +1004,10 @@
       ],
       "audience": "Mixed",
       "cost": "Paid",
-      "costDisplay": "Express your interest here",
+      "costDisplay": "Express your interest",
       "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [],
-      "summary": "Interactive symposium during New York Arbitration Week following the traditional LCIA Tylney-style format."
+      "summary": "Interactive symposium during New York Arbitration Week 2026. Specific date within November to be confirmed."
     },
     {
       "id": "EVT-E4196078B9",
@@ -888,7 +1016,7 @@
       "start": "2026-11-29",
       "end": "2026-11-29",
       "city": "Miami",
-      "country": "United States",
+      "country": "USA",
       "region": "North America",
       "format": "In-person",
       "topics": [
@@ -897,10 +1025,10 @@
       ],
       "audience": "Mixed",
       "cost": "Paid",
-      "costDisplay": "Express your interest here",
+      "costDisplay": "Express your interest",
       "url": "https://www.lcia.org/events/2026-lcia-tylney-in-town-symposium-in-miami-389.aspx",
       "flags": [],
-      "summary": "Interactive half-day symposium during Miami Arbitration Week, ending with a cocktail reception."
+      "summary": "Interactive half-day symposium during Miami Arbitration Week 2026, ending with a cocktail reception."
     },
     {
       "id": "EVT-54E577F899",
@@ -928,9 +1056,9 @@
       "title": "LCIA Tylney in Town Symposium in London",
       "organiser": "LCIA",
       "start": "2026-12-01",
-      "end": "2026-12-01",
+      "end": "2026-12-31",
       "city": "London",
-      "country": "United Kingdom",
+      "country": "England",
       "region": "UK",
       "format": "In-person",
       "topics": [
@@ -939,10 +1067,10 @@
       ],
       "audience": "Mixed",
       "cost": "Paid",
-      "costDisplay": "Express your interest here",
+      "costDisplay": "Express your interest",
       "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [],
-      "summary": "Full-day symposium during London Arbitration Week following the long-established LCIA tradition of open forum discussion."
+      "summary": "Full-day symposium during London Arbitration Week following the long-established LCIA tradition of open forum discussion. Specific date within December to be confirmed."
     },
     {
       "id": "EVT-9BA1018AF6",
@@ -951,7 +1079,7 @@
       "start": "2027-05-14",
       "end": "2027-05-16",
       "city": "Hampshire",
-      "country": "United Kingdom",
+      "country": "England",
       "region": "UK",
       "format": "In-person",
       "topics": [
@@ -960,12 +1088,12 @@
       ],
       "audience": "Mixed",
       "cost": "Paid",
-      "costDisplay": "Express your interest here",
+      "costDisplay": "Express your interest",
       "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [
         "Flagship"
       ],
-      "summary": "Two-day symposium at Tylney Hall following the long-established LCIA tradition of open forum discussion based on topics submitted by delegates in advance."
+      "summary": "Two-day symposium at Tylney Hall following the long-established LCIA tradition of open forum discussion, based on topics submitted by delegates in advance."
     },
     {
       "id": "EVT-DFC521926E",
@@ -986,7 +1114,7 @@
       "costDisplay": "Express your interest",
       "url": "https://www.lcia.org/websiteform/express-your-interest-yiag-tylney-hall-symposium-2027-310.aspx",
       "flags": [],
-      "summary": "Half-day symposium preceding the LCIA Tylney Hall Symposium, featuring open forum discussion on topics submitted by delegates in advance."
+      "summary": "Half-day symposium preceding LCIA Tylney Hall Symposium with open forum discussion based on delegate-submitted topics."
     },
     {
       "id": "EVT-CA2154715F",
@@ -995,7 +1123,7 @@
       "start": "2027-09-17",
       "end": "2027-09-19",
       "city": "Hampshire",
-      "country": "United Kingdom",
+      "country": "England",
       "region": "UK",
       "format": "In-person",
       "topics": [
@@ -1004,12 +1132,12 @@
       ],
       "audience": "Mixed",
       "cost": "Paid",
-      "costDisplay": "Express your interest here",
+      "costDisplay": "Express your interest",
       "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [
         "Flagship"
       ],
-      "summary": "Two-day symposium at Tylney Hall following the long-established LCIA tradition of open forum discussion based on topics submitted by delegates in advance."
+      "summary": "Two-day symposium at Tylney Hall following the long-established LCIA tradition of open forum discussion, based on topics submitted by delegates in advance."
     },
     {
       "id": "EVT-3C352674DE",
@@ -1030,7 +1158,7 @@
       "costDisplay": "Express your interest",
       "url": "https://www.lcia.org/websiteform/express-your-interest-yiag-tylney-hall-symposium-2027-310.aspx",
       "flags": [],
-      "summary": "Half-day symposium preceding the LCIA Tylney Hall Symposium, featuring open forum discussion on topics submitted by delegates in advance."
+      "summary": "Half-day symposium preceding LCIA Tylney Hall Symposium with open forum discussion based on delegate-submitted topics."
     }
   ]
 }
