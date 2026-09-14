@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T10:02:33.830482Z",
-  "event_count": 42,
+  "generated_at": "2026-09-14T10:28:06.601909Z",
+  "event_count": 41,
   "sources": [
     {
       "name": "Global Investigations Review",
@@ -300,28 +300,6 @@
     }
   ],
   "events": [
-    {
-      "id": "EVT-45AB021B44",
-      "title": "Compliance, governance and innovation: balancing risks and opportunities of doing business in Latin America",
-      "organiser": "International Bar Association",
-      "start": "2026-08-31",
-      "end": "2026-09-02",
-      "city": "São Paulo",
-      "country": "Brazil",
-      "region": "LATAM",
-      "format": "In-person",
-      "topics": [
-        "Compliance",
-        "ABC",
-        "Bribery"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Book now",
-      "url": "https://www.ibanet.org/conference-details/CONF2801",
-      "flags": [],
-      "summary": "Conference examining compliance frameworks, governance structures and risk management for business operations in Latin American markets."
-    },
     {
       "id": "EVT-41067DE169",
       "title": "India ADR Week",
