@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T10:32:57.751875Z",
-  "event_count": 36,
+  "generated_at": "2026-09-28T11:34:26.487737Z",
+  "event_count": 34,
   "sources": [
     {
       "name": "Global Investigations Review",
@@ -300,51 +300,6 @@
     }
   ],
   "events": [
-    {
-      "id": "EVT-80A4BDD440",
-      "title": "Chief Litigation Officer Summit 2026",
-      "organiser": "Unknown",
-      "start": "2026-09-17",
-      "end": "2026-09-17",
-      "city": "Boston",
-      "country": "United States",
-      "region": "North America",
-      "format": "In-person",
-      "topics": [
-        "Litigation",
-        "Networking"
-      ],
-      "audience": "Senior",
-      "cost": "Invite-only",
-      "costDisplay": "Invitation only",
-      "url": "https://www.cdr-news.com/conferences/chief-litigation-officer-summit-2026-september",
-      "flags": [],
-      "summary": "An invitation-only forum bringing together senior litigation leaders and solution providers for high-value networking and knowledge exchange focused on litigation leadership."
-    },
-    {
-      "id": "EVT-DED2230069",
-      "title": "China Arbitration Summit",
-      "organiser": "CIETAC",
-      "start": "2026-09-18",
-      "end": "2026-09-18",
-      "city": "Beijing",
-      "country": "China",
-      "region": "APAC",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Disputes",
-        "Policy"
-      ],
-      "audience": "Senior",
-      "cost": "Paid",
-      "costDisplay": "Further information",
-      "url": "http://www.chinaarbitrationweek.org/index/activity/detail/id/789.html",
-      "flags": [
-        "Flagship"
-      ],
-      "summary": "Flagship summit of China Arbitration Week focusing on international arbitration in a changing world, strengthening rule of law integration."
-    },
     {
       "id": "EVT-CCD95DEC43",
       "title": "YIAG Fireside Chat and Meet & Mingle in Beijing",
