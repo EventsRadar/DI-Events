@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T11:34:26.487737Z",
-  "event_count": 34,
+  "generated_at": "2026-10-05T12:09:14.504516Z",
+  "event_count": 31,
   "sources": [
     {
       "name": "Global Investigations Review",
@@ -300,71 +300,6 @@
     }
   ],
   "events": [
-    {
-      "id": "EVT-CCD95DEC43",
-      "title": "YIAG Fireside Chat and Meet & Mingle in Beijing",
-      "organiser": "LCIA YIAG",
-      "start": "2026-09-21",
-      "end": "2026-09-21",
-      "city": "Beijing",
-      "country": "China",
-      "region": "APAC",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Networking"
-      ],
-      "audience": "Junior",
-      "cost": "Free",
-      "costDisplay": "Register",
-      "url": "https://www.lcia.org/events/2026-yiag-fireside-chat-and-meet-and-mingle-in-beijing-396.aspx",
-      "flags": [],
-      "summary": "Informal Q&A session with LCIA Director General Kevin Nash and Senior Counsel Yang Zhao for younger arbitration practitioners in Beijing."
-    },
-    {
-      "id": "EVT-9C6CFC0D83",
-      "title": "Arbitration and ADR Committee Meeting",
-      "organiser": "ICC United Kingdom",
-      "start": "2026-09-23",
-      "end": "2026-09-23",
-      "city": "London",
-      "country": "United Kingdom",
-      "region": "UK",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Mediation",
-        "Disputes"
-      ],
-      "audience": "Mixed",
-      "cost": "Invite-only",
-      "costDisplay": "Members & invite only",
-      "url": "https://iccwbo.uk/events/arbitration-and-adr-committee-meeting-23-september-2026/",
-      "flags": [],
-      "summary": "A committee meeting for ICC members and invited practitioners focusing on arbitration and alternative dispute resolution matters."
-    },
-    {
-      "id": "EVT-FBF4C6251A",
-      "title": "Arbitration and ADR Committee Meeting",
-      "organiser": "ICC United Kingdom",
-      "start": "2026-09-23",
-      "end": "2026-09-23",
-      "city": "",
-      "country": "UK",
-      "region": "UK",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Mediation",
-        "Disputes"
-      ],
-      "audience": "Mixed",
-      "cost": "Invite-only",
-      "costDisplay": "Members & invite only",
-      "url": "https://iccwbo.uk/events/arbitration-and-adr-committee-meeting-23-september-2026/",
-      "flags": [],
-      "summary": "Members-only committee meeting focused on arbitration and alternative dispute resolution matters, held in-person for ICC UK members and invited guests."
-    },
     {
       "id": "EVT-4513AC7332",
       "title": "Side Event of the Berlin Dispute Resolution Days",
