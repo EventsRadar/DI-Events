@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T13:16:53.896181Z",
-  "event_count": 15,
+  "generated_at": "2026-11-09T13:43:13.711989Z",
+  "event_count": 13,
   "sources": [
     {
       "name": "Global Investigations Review",
@@ -300,52 +300,6 @@
     }
   ],
   "events": [
-    {
-      "id": "EVT-7A853E241D",
-      "title": "15th Anniversary Edition Fraud, Asset Tracing & Recovery Miami",
-      "organiser": "Unknown",
-      "start": "2026-10-29",
-      "end": "2026-10-30",
-      "city": "Miami",
-      "country": "United States",
-      "region": "North America",
-      "format": "In-person",
-      "topics": [
-        "Fraud",
-        "Asset Recovery",
-        "Investigations",
-        "Enforcement"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Save 10% with code: D10-999-GLG27",
-      "url": "https://www.cdr-news.com/conferences/15th-anniversary-edition-fraud-asset-tracing-recovery-miami",
-      "flags": [
-        "Flagship"
-      ],
-      "summary": "Fifteenth anniversary edition conference focused on fraud investigation, asset tracing techniques, and recovery strategies for complex cross-border cases."
-    },
-    {
-      "id": "EVT-D406DF15B4",
-      "title": "LCIA Tylney in Town Symposium in Miami",
-      "organiser": "LCIA",
-      "start": "2026-11-01",
-      "end": "2026-11-01",
-      "city": "Miami",
-      "country": "USA",
-      "region": "North America",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Disputes"
-      ],
-      "audience": "Senior",
-      "cost": "Paid",
-      "costDisplay": "Register your interest",
-      "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
-      "flags": [],
-      "summary": "Interactive half-day symposium during Miami Arbitration Week concluding with cocktail reception. Follows LCIA's Tylney-style format for open forum discussion."
-    },
     {
       "id": "EVT-3969F07435",
       "title": "LCIA Tylney in Town Symposium in New York",
