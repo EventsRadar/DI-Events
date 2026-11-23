@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T13:27:28.509545Z",
-  "event_count": 13,
+  "generated_at": "2026-11-23T15:47:30.673586Z",
+  "event_count": 11,
   "sources": [
     {
       "name": "Global Investigations Review",
@@ -320,54 +320,6 @@
       "url": "https://www.lcia.org/lcia-events/events_schedule.aspx",
       "flags": [],
       "summary": "Interactive symposium during New York Arbitration Week following LCIA's traditional format. Specific date in November to be confirmed."
-    },
-    {
-      "id": "EVT-587E75B579",
-      "title": "Women in International Trade & Sanctions",
-      "organiser": "Unknown",
-      "start": "2026-11-11",
-      "end": "2026-11-11",
-      "city": "London",
-      "country": "United Kingdom",
-      "region": "UK",
-      "format": "In-person",
-      "topics": [
-        "Sanctions",
-        "Export Controls",
-        "Compliance",
-        "Networking"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Save 10% with code: D10-999-GLG27",
-      "url": "https://www.cdr-news.com/conferences/women-in-international-trade-sanctions",
-      "flags": [],
-      "summary": "Professional development and networking event for women working in international trade compliance, sanctions implementation, and export control regulations."
-    },
-    {
-      "id": "EVT-FFBD84AD1A",
-      "title": "16th London Forum on Global Economic Sanctions",
-      "organiser": "Unknown",
-      "start": "2026-11-12",
-      "end": "2026-11-13",
-      "city": "London",
-      "country": "United Kingdom",
-      "region": "UK",
-      "format": "In-person",
-      "topics": [
-        "Sanctions",
-        "Financial Crime",
-        "Compliance",
-        "Enforcement"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Save 10% with code: D10-999-GLG27",
-      "url": "https://www.cdr-news.com/conferences/16th-london-forum-on-global-economic-sanctions",
-      "flags": [
-        "Flagship"
-      ],
-      "summary": "Sixteenth edition of leading forum examining global economic sanctions regimes, compliance challenges, enforcement trends, and regulatory developments across jurisdictions."
     },
     {
       "id": "EVT-90CB79F390",
